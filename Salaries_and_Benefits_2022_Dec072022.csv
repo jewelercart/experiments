@@ -1,0 +1,712 @@
+"LONG_SCHOOL_YEAR","SCHOOL_DSTRCT_CD","SCHOOL_DSTRCT_NM","INSTN_NUMBER","INSTN_NAME","CATEGORY","SALARIES","BENEFITS","SALARIES_AND_BENEFITS","% Rev- GF/Title/Lottery","% Rev- Total K-12","% Exp- GF/Title/Lottery","% Exp-Total K-12"
+"2021-22","601","Appling County","ALL","All Column Values","General Administration",164673.96,138900.86,303574.82,0.65,0.55,0.7,0.61
+"2021-22","601","Appling County","ALL","All Column Values","School Administration",1084180.61,472638.59,1556819.2,3.31,2.8,3.59,3.13
+"2021-22","601","Appling County","ALL","All Column Values","Teachers and Paraprofessionals",14990355.73,6807292.19,21797647.92,46.34,39.25,50.29,43.85
+"2021-22","602","Atkinson County","ALL","All Column Values","General Administration",148411.61,134257.4,282669.01,1.29,1.14,1.31,1.16
+"2021-22","602","Atkinson County","ALL","All Column Values","School Administration",659985.4,345324.43,1005309.83,4.59,4.07,4.66,4.12
+"2021-22","602","Atkinson County","ALL","All Column Values","Teachers and Paraprofessionals",6614225.02,3616344.86,10230569.88,46.73,41.38,47.42,41.92
+"2021-22","603","Bacon County","ALL","All Column Values","General Administration",401351.2,173909.11,575260.31,2.01,1.74,2.11,1.9
+"2021-22","603","Bacon County","ALL","All Column Values","School Administration",819601.35,368077.88,1187679.23,4.15,3.59,4.36,3.93
+"2021-22","603","Bacon County","ALL","All Column Values","Teachers and Paraprofessionals",9314280.17,4017995.94,13332276.11,46.62,40.3,48.9,44.13
+"2021-22","604","Baker County","ALL","All Column Values","General Administration",190175.01,128333.75,318508.76,4.54,4.17,5.83,5.53
+"2021-22","604","Baker County","ALL","All Column Values","School Administration",89396.04,65849.18,155245.22,2.21,2.03,2.84,2.69
+"2021-22","604","Baker County","ALL","All Column Values","Teachers and Paraprofessionals",1158345.47,689372.84,1847718.31,26.32,24.17,33.83,32.06
+"2021-22","605","Baldwin County","ALL","All Column Values","General Administration",761015.09,552207.47,1313222.56,2.09,1.68,2.25,1.67
+"2021-22","605","Baldwin County","ALL","All Column Values","School Administration",1732342.94,946674.22,2679017.16,4.25,3.42,4.59,3.41
+"2021-22","605","Baldwin County","ALL","All Column Values","Teachers and Paraprofessionals",19165621.69,9934477.08,29100098.77,46.22,37.14,49.81,37.06
+"2021-22","606","Banks County","ALL","All Column Values","General Administration",333791.56,175036.23,508827.79,1.45,1.23,1.46,1.24
+"2021-22","606","Banks County","ALL","All Column Values","School Administration",811009.2,514475.68,1325484.88,3.78,3.21,3.81,3.22
+"2021-22","606","Banks County","ALL","All Column Values","Teachers and Paraprofessionals",13034580.95,6419184.29,19453765.24,55.53,47.05,55.88,47.28
+"2021-22","607","Barrow County","ALL","All Column Values","General Administration",1035024.66,997105.36,2032130.02,1.1,0.93,1.26,0.98
+"2021-22","607","Barrow County","ALL","All Column Values","School Administration",4193012.25,2614592.11,6807604.36,3.7,3.11,4.2,3.27
+"2021-22","607","Barrow County","ALL","All Column Values","Teachers and Paraprofessionals",58222430.55,29031929.93,87254360.48,47.38,39.83,53.89,41.89
+"2021-22","608","Bartow County","ALL","All Column Values","General Administration",644488,386196.92,1030684.92,0.59,0.4,0.65,0.56
+"2021-22","608","Bartow County","ALL","All Column Values","School Administration",4807471.6,3127634.19,7935105.79,4.57,3.06,4.98,4.34
+"2021-22","608","Bartow County","ALL","All Column Values","Teachers and Paraprofessionals",55650010.9,28784076.25,84434087.15,48.63,32.6,52.97,46.18
+"2021-22","609","Ben Hill County","ALL","All Column Values","General Administration",754849.5,495102.28,1249951.78,2.84,2.47,3.01,1.85
+"2021-22","609","Ben Hill County","ALL","All Column Values","School Administration",1030146.12,620879.4,1651025.52,3.75,3.26,3.98,2.44
+"2021-22","609","Ben Hill County","ALL","All Column Values","Teachers and Paraprofessionals",13538425.26,6252190.4,19790615.66,44.96,39.06,47.73,29.22
+"2021-22","610","Berrien County","ALL","All Column Values","General Administration",426727.44,213484.44,640211.88,1.6,1.24,1.83,1.57
+"2021-22","610","Berrien County","ALL","All Column Values","School Administration",858201.83,461962.97,1320164.8,3.29,2.57,3.78,3.24
+"2021-22","610","Berrien County","ALL","All Column Values","Teachers and Paraprofessionals",11769408.25,5525606.76,17295015.01,43.09,33.62,49.51,42.48
+"2021-22","611","Bibb County","ALL","All Column Values","General Administration",1373004.14,1162063.26,2535067.4,0.83,0.69,0.87,0.76
+"2021-22","611","Bibb County","ALL","All Column Values","School Administration",8468863.88,5589688.94,14058552.82,4.59,3.83,4.81,4.22
+"2021-22","611","Bibb County","ALL","All Column Values","Teachers and Paraprofessionals",82477644.86,42279035.56,124756680.42,40.77,33.98,42.72,37.47
+"2021-22","612","Bleckley County","ALL","All Column Values","General Administration",351648.01,183480.56,535128.57,1.77,1.46,1.91,1.13
+"2021-22","612","Bleckley County","ALL","All Column Values","School Administration",979599,463428.46,1443027.46,4.77,3.93,5.15,3.06
+"2021-22","612","Bleckley County","ALL","All Column Values","Teachers and Paraprofessionals",10470083.17,4551464.93,15021548.1,49.62,40.93,53.63,31.81
+"2021-22","613","Brantley County","ALL","All Column Values","General Administration",371121.46,157683.28,528804.74,1.22,1.07,1.36,1.24
+"2021-22","613","Brantley County","ALL","All Column Values","School Administration",1313661.89,616515.46,1930177.35,4.47,3.89,4.98,4.53
+"2021-22","613","Brantley County","ALL","All Column Values","Teachers and Paraprofessionals",13726507.29,5728552.63,19455059.92,45.02,39.21,50.22,45.63
+"2021-22","614","Brooks County","ALL","All Column Values","General Administration",677954.72,389295.64,1067250.36,3.17,2.84,3.48,2.92
+"2021-22","614","Brooks County","ALL","All Column Values","School Administration",1142007.49,616949.18,1758956.67,5.22,4.68,5.74,4.81
+"2021-22","614","Brooks County","ALL","All Column Values","Teachers and Paraprofessionals",8161353.86,4045716.74,12207070.6,36.22,32.46,39.83,33.4
+"2021-22","615","Bryan County","ALL","All Column Values","General Administration",1067514.89,437326.01,1504840.9,1.42,1.06,1.49,1.18
+"2021-22","615","Bryan County","ALL","All Column Values","School Administration",3279519.96,1606687.81,4886207.77,4.61,3.45,4.84,3.85
+"2021-22","615","Bryan County","ALL","All Column Values","Teachers and Paraprofessionals",37752011.2,16583176.63,54335187.83,51.29,38.33,53.81,42.78
+"2021-22","616","Bulloch County","ALL","All Column Values","General Administration",613339.72,334510.65,947850.37,0.69,0.58,0.76,0.63
+"2021-22","616","Bulloch County","ALL","All Column Values","School Administration",4213179.5,2096056.03,6309235.53,4.59,3.87,5.09,4.16
+"2021-22","616","Bulloch County","ALL","All Column Values","Teachers and Paraprofessionals",46481302.04,19274054.71,65755356.75,47.8,40.3,53.03,43.4
+"2021-22","617","Burke County","ALL","All Column Values","General Administration",992119.03,567842.94,1559961.97,1.44,1.38,2.28,2.13
+"2021-22","617","Burke County","ALL","All Column Values","School Administration",2103720.65,1058462.04,3162182.69,2.92,2.79,4.62,4.31
+"2021-22","617","Burke County","ALL","All Column Values","Teachers and Paraprofessionals",21936527.77,10535603.98,32472131.75,30,28.69,47.46,44.25
+"2021-22","618","Butts County","ALL","All Column Values","General Administration",315535.66,358238.08,673773.74,1.51,0.75,1.73,1.27
+"2021-22","618","Butts County","ALL","All Column Values","School Administration",1577182.33,874714.55,2451896.88,5.51,2.73,6.28,4.64
+"2021-22","618","Butts County","ALL","All Column Values","Teachers and Paraprofessionals",12143590.17,6381052.15,18524642.32,41.64,20.65,47.44,35.05
+"2021-22","619","Calhoun County","ALL","All Column Values","General Administration",276752.93,147604.15,424357.08,4.65,3.5,4.96,4.28
+"2021-22","619","Calhoun County","ALL","All Column Values","School Administration",273358.48,192470.62,465829.1,5.1,3.85,5.44,4.7
+"2021-22","619","Calhoun County","ALL","All Column Values","Teachers and Paraprofessionals",1878241.4,1027413.36,2905654.76,31.82,23.99,33.94,29.34
+"2021-22","620","Camden County","ALL","All Column Values","General Administration",270958.86,223025.78,493984.64,0.48,0.4,0.51,0.43
+"2021-22","620","Camden County","ALL","All Column Values","School Administration",3327301.26,1511335.78,4838637.04,4.69,3.88,5.03,4.2
+"2021-22","620","Camden County","ALL","All Column Values","Teachers and Paraprofessionals",35707689.94,13993540.8,49701230.74,48.14,39.89,51.65,43.14
+"2021-22","621","Candler County","ALL","All Column Values","General Administration",476727.46,227800.94,704528.4,2.55,2.14,2.82,2.47
+"2021-22","621","Candler County","ALL","All Column Values","School Administration",593030.6,428687.41,1021718.01,3.7,3.11,4.08,3.58
+"2021-22","621","Candler County","ALL","All Column Values","Teachers and Paraprofessionals",7890967.56,4316968.44,12207936,44.15,37.12,48.79,42.75
+"2021-22","622","Carroll County","ALL","All Column Values","General Administration",617371.1,466140.49,1083511.59,0.58,0.49,0.6,0.46
+"2021-22","622","Carroll County","ALL","All Column Values","School Administration",5542051.36,3288477.35,8830528.71,4.76,4.02,4.9,3.72
+"2021-22","622","Carroll County","ALL","All Column Values","Teachers and Paraprofessionals",57051463.03,29768892.38,86820355.41,46.83,39.48,48.19,36.59
+"2021-22","623","Catoosa County","ALL","All Column Values","General Administration",389277.59,363030.29,752307.88,0.55,0.35,0.56,0.45
+"2021-22","623","Catoosa County","ALL","All Column Values","School Administration",3911671.07,2542438.83,6454109.9,4.7,3.04,4.79,3.9
+"2021-22","623","Catoosa County","ALL","All Column Values","Teachers and Paraprofessionals",49591999.56,24524371.59,74116371.15,53.94,34.95,54.95,44.75
+"2021-22","624","Charlton County","ALL","All Column Values","General Administration",293266.47,162664.55,455931.02,2.06,1.83,2.24,2
+"2021-22","624","Charlton County","ALL","All Column Values","School Administration",766594.97,403250.21,1169845.18,5.28,4.71,5.76,5.12
+"2021-22","624","Charlton County","ALL","All Column Values","Teachers and Paraprofessionals",6204434.85,3059444.6,9263879.45,41.83,37.27,45.58,40.58
+"2021-22","625","Savannah-Chatham County","ALL","All Column Values","General Administration",6603262.79,3103219.6,9706482.39,1.65,1.33,1.87,1.55
+"2021-22","625","Savannah-Chatham County","ALL","All Column Values","School Administration",14177893.12,8473717.25,22651610.37,3.85,3.09,4.36,3.63
+"2021-22","625","Savannah-Chatham County","ALL","All Column Values","Teachers and Paraprofessionals",167421262.02,76832089.37,244253351.39,41.47,33.37,46.99,39.11
+"2021-22","626","Chattahoochee County","ALL","All Column Values","General Administration",462663.02,206439.98,669103,4.92,4.02,5.94,5.18
+"2021-22","626","Chattahoochee County","ALL","All Column Values","School Administration",424181.48,215898.18,640079.66,4.71,3.84,5.68,4.96
+"2021-22","626","Chattahoochee County","ALL","All Column Values","Teachers and Paraprofessionals",3250473.34,1388814.59,4639287.93,34.14,27.86,41.2,35.94
+"2021-22","627","Chattooga County","ALL","All Column Values","General Administration",476726.51,220422.68,697149.19,1.99,1.29,2.23,1.72
+"2021-22","627","Chattooga County","ALL","All Column Values","School Administration",950048.06,553252.07,1503300.13,4.3,2.78,4.82,3.7
+"2021-22","627","Chattooga County","ALL","All Column Values","Teachers and Paraprofessionals",10023641.02,5039976.73,15063617.75,43.04,27.85,48.27,37.12
+"2021-22","628","Cherokee County","ALL","All Column Values","General Administration",2474882.91,1420466.51,3895349.42,0.78,0.6,0.83,0.66
+"2021-22","628","Cherokee County","ALL","All Column Values","School Administration",13022154.56,8253119.11,21275273.67,4.26,3.28,4.53,3.58
+"2021-22","628","Cherokee County","ALL","All Column Values","Teachers and Paraprofessionals",191931669.77,89465366.02,281397035.79,56.33,43.43,59.9,47.4
+"2021-22","629","Clarke County","ALL","All Column Values","General Administration",1199050.43,611316.63,1810367.06,0.82,0.52,0.87,0.75
+"2021-22","629","Clarke County","ALL","All Column Values","School Administration",5317500.51,2959019.21,8276519.72,3.76,2.4,3.98,3.41
+"2021-22","629","Clarke County","ALL","All Column Values","Teachers and Paraprofessionals",60698090.5,33714510.14,94412600.64,42.94,27.34,45.44,38.86
+"2021-22","630","Clay County","ALL","All Column Values","General Administration",257833.76,83127.8,340961.56,6.72,5.98,6.29,5.76
+"2021-22","630","Clay County","ALL","All Column Values","School Administration",170030.14,107580.11,277610.25,5.47,4.87,5.12,4.69
+"2021-22","630","Clay County","ALL","All Column Values","Teachers and Paraprofessionals",1000788.96,451180.58,1451969.54,28.61,25.46,26.78,24.51
+"2021-22","631","Clayton County","ALL","All Column Values","General Administration",5463810.77,2232206.25,7696017.02,1.21,1.04,1.29,1.12
+"2021-22","631","Clayton County","ALL","All Column Values","School Administration",22278698.64,9333308.29,31612006.93,4.99,4.29,5.29,4.6
+"2021-22","631","Clayton County","ALL","All Column Values","Teachers and Paraprofessionals",192104470.26,82634568.08,274739038.34,43.36,37.25,45.96,39.98
+"2021-22","632","Clinch County","ALL","All Column Values","General Administration",373087.09,191707.26,564794.35,2.93,2.64,3.55,2.88
+"2021-22","632","Clinch County","ALL","All Column Values","School Administration",431311.86,234724.7,666036.56,3.46,3.11,4.18,3.4
+"2021-22","632","Clinch County","ALL","All Column Values","Teachers and Paraprofessionals",5230503.6,2665184.19,7895687.79,40.97,36.87,49.59,40.26
+"2021-22","633","Cobb County","ALL","All Column Values","General Administration",6765711.29,5028760,11794471.29,0.85,0.71,0.88,0.77
+"2021-22","633","Cobb County","ALL","All Column Values","School Administration",40290644.63,23662301.58,63952946.21,4.6,3.82,4.75,4.17
+"2021-22","633","Cobb County","ALL","All Column Values","Teachers and Paraprofessionals",538772930.31,256641460.36,795414390.67,57.17,47.55,59.1,51.89
+"2021-22","634","Coffee County","ALL","All Column Values","General Administration",677571.35,347628.48,1025199.83,1.12,0.95,1.17,1.06
+"2021-22","634","Coffee County","ALL","All Column Values","School Administration",2134008.97,1348673.83,3482682.8,3.81,3.22,3.97,3.59
+"2021-22","634","Coffee County","ALL","All Column Values","Teachers and Paraprofessionals",28816803.57,14914503.53,43731307.1,47.86,40.46,49.84,45.04
+"2021-22","635","Colquitt County","ALL","All Column Values","General Administration",858883.44,409375.77,1268259.21,0.97,0.87,1.08,0.98
+"2021-22","635","Colquitt County","ALL","All Column Values","School Administration",3261195.38,1498596.89,4759792.27,3.66,3.27,4.07,3.67
+"2021-22","635","Colquitt County","ALL","All Column Values","Teachers and Paraprofessionals",38004846.9,17586629.83,55591476.73,42.71,38.21,47.55,42.89
+"2021-22","636","Columbia County","ALL","All Column Values","General Administration",268913.68,546811.26,815724.94,0.26,0.22,0.27,0.22
+"2021-22","636","Columbia County","ALL","All Column Values","School Administration",8282809.52,4904363.6,13187173.12,4.14,3.49,4.37,3.61
+"2021-22","636","Columbia County","ALL","All Column Values","Teachers and Paraprofessionals",112927121.87,54183680.5,167110802.37,52.47,44.21,55.35,45.7
+"2021-22","637","Cook County","ALL","All Column Values","General Administration",548103.68,265021.62,813125.3,2.09,1.79,2.13,1.49
+"2021-22","637","Cook County","ALL","All Column Values","School Administration",971213.42,595763.54,1566976.96,4.03,3.44,4.1,2.86
+"2021-22","637","Cook County","ALL","All Column Values","Teachers and Paraprofessionals",12206185.62,5597983.53,17804169.15,45.78,39.11,46.6,32.52
+"2021-22","638","Coweta County","ALL","All Column Values","General Administration",476694.42,436993.08,913687.5,0.34,0.26,0.35,0.3
+"2021-22","638","Coweta County","ALL","All Column Values","School Administration",8548909.97,4985626.97,13534536.94,4.98,3.86,5.21,4.37
+"2021-22","638","Coweta County","ALL","All Column Values","Teachers and Paraprofessionals",102385735.37,47777870.65,150163606.02,55.21,42.78,57.76,48.51
+"2021-22","639","Crawford County","ALL","All Column Values","General Administration",522983.95,239043.87,762027.82,3.35,2.15,3.59,2.36
+"2021-22","639","Crawford County","ALL","All Column Values","School Administration",606235.45,395853.2,1002088.65,4.41,2.83,4.72,3.11
+"2021-22","639","Crawford County","ALL","All Column Values","Teachers and Paraprofessionals",6842070.84,3148270.04,9990340.88,43.97,28.25,47.06,31
+"2021-22","640","Crisp County","ALL","All Column Values","General Administration",521208.5,286415.34,807623.84,1.58,1.35,1.71,1.42
+"2021-22","640","Crisp County","ALL","All Column Values","School Administration",1256679.67,826087.58,2082767.25,4.07,3.48,4.41,3.66
+"2021-22","640","Crisp County","ALL","All Column Values","Teachers and Paraprofessionals",14447713.75,7671426.66,22119140.41,43.19,36.96,46.88,38.85
+"2021-22","641","Dade County","ALL","All Column Values","General Administration",135440.64,157702.36,293143,1.21,0.99,1.34,1.19
+"2021-22","641","Dade County","ALL","All Column Values","School Administration",731678.68,414741.85,1146420.53,4.75,3.89,5.23,4.67
+"2021-22","641","Dade County","ALL","All Column Values","Teachers and Paraprofessionals",8117332.5,4306767.69,12424100.19,51.47,42.17,56.67,50.63
+"2021-22","642","Dawson County","ALL","All Column Values","General Administration",476985.05,258419.95,735405,1.44,1.08,1.53,1.07
+"2021-22","642","Dawson County","ALL","All Column Values","School Administration",1732390.25,841238.11,2573628.36,5.04,3.8,5.36,3.75
+"2021-22","642","Dawson County","ALL","All Column Values","Teachers and Paraprofessionals",15377986.66,8102288.34,23480275,46.01,34.63,48.9,34.2
+"2021-22","643","Decatur County","ALL","All Column Values","General Administration",411360,132624.3,543984.3,0.91,0.77,1.01,0.88
+"2021-22","643","Decatur County","ALL","All Column Values","School Administration",1639558,751918.81,2391476.81,3.99,3.39,4.42,3.88
+"2021-22","643","Decatur County","ALL","All Column Values","Teachers and Paraprofessionals",16079498.77,8068370.8,24147869.57,40.34,34.24,44.65,39.18
+"2021-22","644","DeKalb County","ALL","All Column Values","General Administration",7451273.89,5883498.67,13334772.56,0.85,0.75,0.92,0.83
+"2021-22","644","DeKalb County","ALL","All Column Values","School Administration",42467421.31,19349693.07,61817114.38,3.96,3.47,4.26,3.87
+"2021-22","644","DeKalb County","ALL","All Column Values","Teachers and Paraprofessionals",448150655.3,193095188.49,641245843.79,41.08,35.98,44.16,40.15
+"2021-22","645","Dodge County","ALL","All Column Values","General Administration",378060.55,201116.13,579176.68,1.46,1.28,1.79,1.63
+"2021-22","645","Dodge County","ALL","All Column Values","School Administration",862948.09,405681.12,1268629.21,3.19,2.8,3.91,3.57
+"2021-22","645","Dodge County","ALL","All Column Values","Teachers and Paraprofessionals",12935214.3,6058754.29,18993968.59,47.75,41.94,58.57,53.41
+"2021-22","646","Dooly County","ALL","All Column Values","General Administration",659590.9,296289.62,955880.52,5.27,4.51,5.47,4.72
+"2021-22","646","Dooly County","ALL","All Column Values","School Administration",559901.65,359796.86,919698.51,5.07,4.34,5.26,4.54
+"2021-22","646","Dooly County","ALL","All Column Values","Teachers and Paraprofessionals",4045851.82,1986505.45,6032357.27,33.25,28.49,34.49,29.78
+"2021-22","647","Dougherty County","ALL","All Column Values","General Administration",1396694.46,772783.02,2169477.48,1.07,0.81,1.13,0.98
+"2021-22","647","Dougherty County","ALL","All Column Values","School Administration",6193224.22,3366786.44,9560010.66,4.69,3.57,4.99,4.33
+"2021-22","647","Dougherty County","ALL","All Column Values","Teachers and Paraprofessionals",50241978.35,27721614.3,77963592.65,38.28,29.1,40.68,35.33
+"2021-22","648","Douglas County","ALL","All Column Values","General Administration",1237620.35,827832.53,2065452.88,0.62,0.48,0.65,0.55
+"2021-22","648","Douglas County","ALL","All Column Values","School Administration",10018257,6246216.02,16264473.02,4.91,3.82,5.12,4.3
+"2021-22","648","Douglas County","ALL","All Column Values","Teachers and Paraprofessionals",111234902,54829626.04,166064528.04,50.15,38.99,52.32,43.95
+"2021-22","649","Early County","ALL","All Column Values","General Administration",271817.6,255796.83,527614.43,1.94,1.74,2.02,1.77
+"2021-22","649","Early County","ALL","All Column Values","School Administration",880590.13,442264.55,1322854.68,4.87,4.37,5.07,4.44
+"2021-22","649","Early County","ALL","All Column Values","Teachers and Paraprofessionals",8853989.68,4434502.43,13288492.11,48.9,43.92,50.93,44.58
+"2021-22","650","Echols County","ALL","All Column Values","General Administration",262646.44,173234.23,435880.67,3.72,3.29,4.34,3.88
+"2021-22","650","Echols County","ALL","All Column Values","School Administration",248515.68,144687.79,393203.47,3.36,2.97,3.92,3.5
+"2021-22","650","Echols County","ALL","All Column Values","Teachers and Paraprofessionals",3304499.54,1700411.76,5004911.3,42.77,37.77,49.88,44.59
+"2021-22","651","Effingham County","ALL","All Column Values","General Administration",1552047.87,1112277.18,2664325.05,1.76,1.16,1.85,1.5
+"2021-22","651","Effingham County","ALL","All Column Values","School Administration",4374514.78,2521866.47,6896381.25,4.55,3.01,4.78,3.89
+"2021-22","651","Effingham County","ALL","All Column Values","Teachers and Paraprofessionals",59909545.84,26115287.31,86024833.15,56.81,37.56,59.64,48.54
+"2021-22","652","Elbert County","ALL","All Column Values","General Administration",251943,238733.8,490676.8,1.16,0.84,1.27,1.07
+"2021-22","652","Elbert County","ALL","All Column Values","School Administration",1082730.88,741332.73,1824063.61,4.32,3.12,4.74,3.96
+"2021-22","652","Elbert County","ALL","All Column Values","Teachers and Paraprofessionals",13381451.51,6660832.22,20042283.73,47.45,34.31,52.07,43.55
+"2021-22","653","Emanuel County","ALL","All Column Values","General Administration",489849.17,302472.33,792321.5,1.49,1.29,1.69,1.48
+"2021-22","653","Emanuel County","ALL","All Column Values","School Administration",1411084.01,814883.47,2225967.48,4.2,3.62,4.74,4.16
+"2021-22","653","Emanuel County","ALL","All Column Values","Teachers and Paraprofessionals",15640043.29,8416046.09,24056089.38,45.39,39.17,51.25,44.94
+"2021-22","654","Evans County","ALL","All Column Values","General Administration",376398.51,228512.05,604910.56,2.45,2.09,2.5,1.98
+"2021-22","654","Evans County","ALL","All Column Values","School Administration",1023472.07,430542.4,1454014.47,5.9,5.03,6,4.75
+"2021-22","654","Evans County","ALL","All Column Values","Teachers and Paraprofessionals",6771824.64,3146086.84,9917911.48,40.24,34.3,40.95,32.43
+"2021-22","655","Fannin County","ALL","All Column Values","General Administration",655931.93,418242.49,1074174.42,2.48,1.93,2.72,1.92
+"2021-22","655","Fannin County","ALL","All Column Values","School Administration",1145252.67,793127.02,1938379.69,4.48,3.49,4.91,3.47
+"2021-22","655","Fannin County","ALL","All Column Values","Teachers and Paraprofessionals",12826613.07,7252242.22,20078855.29,46.36,36.14,50.85,35.95
+"2021-22","656","Fayette County","ALL","All Column Values","General Administration",879477.41,635482.39,1514959.8,0.6,0.48,0.62,0.5
+"2021-22","656","Fayette County","ALL","All Column Values","School Administration",6834822.85,4249531.54,11084354.39,4.4,3.52,4.51,3.67
+"2021-22","656","Fayette County","ALL","All Column Values","Teachers and Paraprofessionals",97287619.09,44232263.4,141519882.49,56.2,44.91,57.63,46.85
+"2021-22","657","Floyd County","ALL","All Column Values","General Administration",624930.37,780435.77,1405366.14,1.08,0.91,1.16,0.93
+"2021-22","657","Floyd County","ALL","All Column Values","School Administration",3518483.8,2007807.93,5526291.73,4.23,3.57,4.57,3.64
+"2021-22","657","Floyd County","ALL","All Column Values","Teachers and Paraprofessionals",40456013.59,19804383.07,60260396.66,46.1,38.95,49.86,39.73
+"2021-22","658","Forsyth County","ALL","All Column Values","General Administration",1909236.29,917425.57,2826661.86,0.5,0.4,0.53,0.41
+"2021-22","658","Forsyth County","ALL","All Column Values","School Administration",15101059.72,8885735.62,23986795.34,4.24,3.43,4.46,3.51
+"2021-22","658","Forsyth County","ALL","All Column Values","Teachers and Paraprofessionals",227608307.19,108426488.96,336034796.15,59.45,48.07,62.44,49.16
+"2021-22","659","Franklin County","ALL","All Column Values","General Administration",255161.96,221609.59,476771.55,1.15,0.9,1.13,1.04
+"2021-22","659","Franklin County","ALL","All Column Values","School Administration",1187307.22,726971.15,1914278.37,4.62,3.62,4.55,4.17
+"2021-22","659","Franklin County","ALL","All Column Values","Teachers and Paraprofessionals",15935450.69,7494307.09,23429757.78,56.51,44.29,55.74,50.99
+"2021-22","660","Fulton County","ALL","All Column Values","General Administration",6664933.9,19428882.71,26093816.61,1.97,1.6,2.08,1.82
+"2021-22","660","Fulton County","ALL","All Column Values","School Administration",35540542.92,18926751.77,54467294.69,4.11,3.34,4.33,3.79
+"2021-22","660","Fulton County","ALL","All Column Values","Teachers and Paraprofessionals",419658437.16,168710623.58,588369060.74,44.35,36.12,46.82,40.93
+"2021-22","661","Gilmer County","ALL","All Column Values","General Administration",367047.4,325268.55,692315.95,1.31,1.07,1.44,1.22
+"2021-22","661","Gilmer County","ALL","All Column Values","School Administration",1414471.31,899677.17,2314148.48,4.39,3.58,4.8,4.08
+"2021-22","661","Gilmer County","ALL","All Column Values","Teachers and Paraprofessionals",16493358.79,8731515.05,25224873.84,47.87,38.98,52.34,44.46
+"2021-22","662","Glascock County","ALL","All Column Values","General Administration",285076.84,133047.13,418123.97,5,4.56,5.13,4.66
+"2021-22","662","Glascock County","ALL","All Column Values","School Administration",209096.76,107619.06,316715.82,3.79,3.46,3.89,3.53
+"2021-22","662","Glascock County","ALL","All Column Values","Teachers and Paraprofessionals",2530144.44,1092424,3622568.44,43.3,39.54,44.48,40.38
+"2021-22","663","Glynn County","ALL","All Column Values","General Administration",598603.04,541344.46,1139947.5,0.66,0.52,0.73,0.56
+"2021-22","663","Glynn County","ALL","All Column Values","School Administration",4380055.61,2326654.26,6706709.87,3.86,3.04,4.27,3.32
+"2021-22","663","Glynn County","ALL","All Column Values","Teachers and Paraprofessionals",57003475.44,27690922.83,84694398.27,48.76,38.36,53.89,41.88
+"2021-22","664","Gordon County","ALL","All Column Values","General Administration",587595.96,361667,949262.96,1.17,0.77,1.22,0.96
+"2021-22","664","Gordon County","ALL","All Column Values","School Administration",2390839.57,1507204.36,3898043.93,4.82,3.17,5,3.93
+"2021-22","664","Gordon County","ALL","All Column Values","Teachers and Paraprofessionals",25895162.28,12943309.19,38838471.47,48.01,31.61,49.77,39.14
+"2021-22","665","Grady County","ALL","All Column Values","General Administration",243499.13,157024.87,400524,0.78,0.67,0.81,0.65
+"2021-22","665","Grady County","ALL","All Column Values","School Administration",1648119.39,827988.63,2476108.02,4.82,4.11,4.99,4.03
+"2021-22","665","Grady County","ALL","All Column Values","Teachers and Paraprofessionals",17514477.5,8001813.08,25516290.58,49.64,42.4,51.43,41.51
+"2021-22","666","Greene County","ALL","All Column Values","General Administration",447047.89,308094.48,755142.37,1.55,1.29,1.69,1.54
+"2021-22","666","Greene County","ALL","All Column Values","School Administration",996680.2,524107.51,1520787.71,3.13,2.6,3.4,3.1
+"2021-22","666","Greene County","ALL","All Column Values","Teachers and Paraprofessionals",14318760.14,7283613.34,21602373.48,44.47,36.93,48.32,44.07
+"2021-22","667","Gwinnett County","ALL","All Column Values","General Administration",4505924.52,2998714.9,7504639.42,0.34,0.26,0.35,0.29
+"2021-22","667","Gwinnett County","ALL","All Column Values","School Administration",69970056.65,43980995.61,113951052.26,5.15,3.87,5.29,4.34
+"2021-22","667","Gwinnett County","ALL","All Column Values","Teachers and Paraprofessionals",813682481.93,387196958.75,1200879440.68,54.26,40.83,55.7,45.71
+"2021-22","668","Habersham County","ALL","All Column Values","General Administration",589136.99,270495.73,859632.72,0.93,0.78,0.94,0.81
+"2021-22","668","Habersham County","ALL","All Column Values","School Administration",2809861.12,1540511.43,4350372.55,4.72,3.94,4.75,4.11
+"2021-22","668","Habersham County","ALL","All Column Values","Teachers and Paraprofessionals",31181694.74,16213552.4,47395247.14,51.38,42.96,51.76,44.78
+"2021-22","669","Hall County","ALL","All Column Values","General Administration",1003122.17,599260.73,1602382.9,0.5,0.41,0.52,0.39
+"2021-22","669","Hall County","ALL","All Column Values","School Administration",9337148.92,5325624.42,14662773.34,4.55,3.74,4.74,3.55
+"2021-22","669","Hall County","ALL","All Column Values","Teachers and Paraprofessionals",115253317.28,55155264.68,170408581.96,52.84,43.42,55.12,41.26
+"2021-22","670","Hancock County","ALL","All Column Values","General Administration",336354.1,114364.76,450718.86,3.55,3.09,3.48,3.21
+"2021-22","670","Hancock County","ALL","All Column Values","School Administration",541608.61,184034.53,725643.14,5.71,4.98,5.6,5.17
+"2021-22","670","Hancock County","ALL","All Column Values","Teachers and Paraprofessionals",3157903.05,1273489.79,4431392.84,34.86,30.42,34.18,31.59
+"2021-22","671","Haralson County","ALL","All Column Values","General Administration",590001.98,266203.52,856205.5,1.72,1.53,1.92,1.51
+"2021-22","671","Haralson County","ALL","All Column Values","School Administration",1259580.38,754119.77,2013700.15,4.05,3.59,4.51,3.56
+"2021-22","671","Haralson County","ALL","All Column Values","Teachers and Paraprofessionals",14715527.46,7285424.66,22000952.12,44.26,39.24,49.3,38.91
+"2021-22","672","Harris County","ALL","All Column Values","General Administration",431585.52,812481.75,1244067.27,1.94,1.57,1.98,1.67
+"2021-22","672","Harris County","ALL","All Column Values","School Administration",1922049.43,1009727.05,2931776.48,4.57,3.7,4.66,3.94
+"2021-22","672","Harris County","ALL","All Column Values","Teachers and Paraprofessionals",21599754.21,9956881.92,31556636.13,49.19,39.85,50.14,42.4
+"2021-22","673","Hart County","ALL","All Column Values","General Administration",436701.22,211751.38,648452.6,1.45,1.2,1.53,1.31
+"2021-22","673","Hart County","ALL","All Column Values","School Administration",1234377.39,723142.35,1957519.74,4.39,3.64,4.61,3.97
+"2021-22","673","Hart County","ALL","All Column Values","Teachers and Paraprofessionals",13730859.18,6776812.35,20507671.53,45.98,38.09,48.28,41.55
+"2021-22","674","Heard County","ALL","All Column Values","General Administration",673610.5,238987.36,912597.86,3.23,2.41,3.62,2.66
+"2021-22","674","Heard County","ALL","All Column Values","School Administration",1000267.14,441552.83,1441819.97,5.1,3.81,5.72,4.2
+"2021-22","674","Heard County","ALL","All Column Values","Teachers and Paraprofessionals",7871996.97,3439451.71,11311448.68,40.03,29.91,44.91,32.93
+"2021-22","675","Henry County","ALL","All Column Values","General Administration",2238503.15,969920.19,3208423.34,0.65,0.38,0.69,0.51
+"2021-22","675","Henry County","ALL","All Column Values","School Administration",16332362.33,8756336.97,25088699.3,5.1,2.94,5.41,4
+"2021-22","675","Henry County","ALL","All Column Values","Teachers and Paraprofessionals",159027176.81,81825064.98,240852241.79,48.99,28.26,51.92,38.41
+"2021-22","676","Houston County","ALL","All Column Values","General Administration",1881549.68,1127160.99,3008710.67,0.8,0.61,0.84,0.69
+"2021-22","676","Houston County","ALL","All Column Values","School Administration",12281435.32,6107908.35,18389343.67,4.88,3.73,5.14,4.21
+"2021-22","676","Houston County","ALL","All Column Values","Teachers and Paraprofessionals",130691122.06,60092307.43,190783429.49,50.58,38.73,53.3,43.72
+"2021-22","677","Irwin County","ALL","All Column Values","General Administration",566449.43,231697.64,798147.07,3.48,3.19,3.53,2.93
+"2021-22","677","Irwin County","ALL","All Column Values","School Administration",595058.9,248573.75,843632.65,3.68,3.37,3.73,3.1
+"2021-22","677","Irwin County","ALL","All Column Values","Teachers and Paraprofessionals",7256919.89,3356174.72,10613094.61,46.3,42.43,46.91,39.01
+"2021-22","678","Jackson County","ALL","All Column Values","General Administration",883436.45,618160.11,1501596.56,1.3,1.02,1.29,1.02
+"2021-22","678","Jackson County","ALL","All Column Values","School Administration",2598211.87,1480437.83,4078649.7,3.52,2.78,3.5,2.76
+"2021-22","678","Jackson County","ALL","All Column Values","Teachers and Paraprofessionals",39631355.02,18985875.59,58617230.61,50.57,39.97,50.27,39.69
+"2021-22","679","Jasper County","ALL","All Column Values","General Administration",213067,169654.31,382721.31,1.26,1.12,1.36,1.24
+"2021-22","679","Jasper County","ALL","All Column Values","School Administration",895619.84,493497.9,1389117.74,4.58,4.05,4.93,4.5
+"2021-22","679","Jasper County","ALL","All Column Values","Teachers and Paraprofessionals",8796552.73,4335492.73,13132045.46,43.33,38.29,46.57,42.56
+"2021-22","680","Jeff Davis County","ALL","All Column Values","General Administration",387422.16,272221.08,659643.24,1.82,1.58,1.97,1.68
+"2021-22","680","Jeff Davis County","ALL","All Column Values","School Administration",894314.76,378812.79,1273127.55,3.5,3.04,3.81,3.23
+"2021-22","680","Jeff Davis County","ALL","All Column Values","Teachers and Paraprofessionals",10731150.21,4914889.07,15646039.28,43.07,37.36,46.79,39.73
+"2021-22","681","Jefferson County","ALL","All Column Values","General Administration",200389.14,125825.37,326214.51,1.03,0.79,1.09,0.97
+"2021-22","681","Jefferson County","ALL","All Column Values","School Administration",976039.72,440060.8,1416100.52,4.49,3.45,4.71,4.2
+"2021-22","681","Jefferson County","ALL","All Column Values","Teachers and Paraprofessionals",9575872.04,4626463.45,14202335.49,45.04,34.58,47.27,42.14
+"2021-22","682","Jenkins County","ALL","All Column Values","General Administration",117028.56,142445.98,259474.54,1.57,1.39,1.66,1.5
+"2021-22","682","Jenkins County","ALL","All Column Values","School Administration",583634.4,276931.72,860566.12,5.2,4.59,5.52,4.98
+"2021-22","682","Jenkins County","ALL","All Column Values","Teachers and Paraprofessionals",5183263.63,2318123.8,7501387.43,45.33,40.04,48.08,43.43
+"2021-22","683","Johnson County","ALL","All Column Values","General Administration",135000,139735.24,274735.24,1.84,1.63,1.81,1.62
+"2021-22","683","Johnson County","ALL","All Column Values","School Administration",398806.74,292755.38,691562.12,4.63,4.12,4.56,4.08
+"2021-22","683","Johnson County","ALL","All Column Values","Teachers and Paraprofessionals",4242585.57,2137596.91,6380182.48,42.7,37.97,42.04,37.67
+"2021-22","684","Jones County","ALL","All Column Values","General Administration",258612.28,246024.99,504637.27,0.82,0.72,0.85,0.76
+"2021-22","684","Jones County","ALL","All Column Values","School Administration",1803587.23,891880,2695467.23,4.37,3.86,4.54,4.04
+"2021-22","684","Jones County","ALL","All Column Values","Teachers and Paraprofessionals",20708651.79,10318331.61,31026983.4,50.32,44.38,52.24,46.55
+"2021-22","685","Lamar County","ALL","All Column Values","General Administration",490384.01,259111.7,749495.71,2.26,1.89,2.61,2.17
+"2021-22","685","Lamar County","ALL","All Column Values","School Administration",814031.9,396435.24,1210467.14,3.66,3.05,4.21,3.51
+"2021-22","685","Lamar County","ALL","All Column Values","Teachers and Paraprofessionals",10648208.75,4677725.87,15325934.62,46.28,38.6,53.28,44.43
+"2021-22","686","Lanier County","ALL","All Column Values","General Administration",138808.56,254265.12,393073.68,1.6,1.46,1.85,1.61
+"2021-22","686","Lanier County","ALL","All Column Values","School Administration",652453.47,360127.84,1012581.31,4.12,3.75,4.76,4.14
+"2021-22","686","Lanier County","ALL","All Column Values","Teachers and Paraprofessionals",6243038.59,3147047.59,9390086.18,38.16,34.78,44.15,38.35
+"2021-22","687","Laurens County","ALL","All Column Values","General Administration",561783.68,515035.62,1076819.3,1.34,1,1.46,0.73
+"2021-22","687","Laurens County","ALL","All Column Values","School Administration",2009648.88,1197978.82,3207627.7,3.98,2.96,4.36,2.16
+"2021-22","687","Laurens County","ALL","All Column Values","Teachers and Paraprofessionals",25391096.53,12764591.38,38155687.91,47.38,35.26,51.88,25.7
+"2021-22","688","Lee County","ALL","All Column Values","General Administration",407249.09,228737.47,635986.56,0.91,0.79,0.95,0.83
+"2021-22","688","Lee County","ALL","All Column Values","School Administration",1768869.21,1029026.16,2797895.37,4,3.49,4.19,3.64
+"2021-22","688","Lee County","ALL","All Column Values","Teachers and Paraprofessionals",22602945.5,11596822.63,34199768.13,48.93,42.65,51.17,44.49
+"2021-22","689","Liberty County","ALL","All Column Values","General Administration",1173451.08,479223.02,1652674.1,1.34,1.13,1.38,1.19
+"2021-22","689","Liberty County","ALL","All Column Values","School Administration",3778757.74,1966057.84,5744815.58,4.67,3.91,4.81,4.13
+"2021-22","689","Liberty County","ALL","All Column Values","Teachers and Paraprofessionals",38891498.96,18707074.08,57598573.04,46.78,39.24,48.24,41.39
+"2021-22","690","Lincoln County","ALL","All Column Values","General Administration",226317.77,149872.25,376190.02,2.36,2.01,2.32,2.01
+"2021-22","690","Lincoln County","ALL","All Column Values","School Administration",523324.08,306645.22,829969.3,5.22,4.44,5.12,4.43
+"2021-22","690","Lincoln County","ALL","All Column Values","Teachers and Paraprofessionals",4876368.19,2534789.49,7411157.68,46.57,39.68,45.68,39.56
+"2021-22","691","Long County","ALL","All Column Values","General Administration",198624.7,180460.22,379084.92,0.8,0.71,0.98,0.89
+"2021-22","691","Long County","ALL","All Column Values","School Administration",1126099.92,479770.47,1605870.39,3.41,2.99,4.16,3.75
+"2021-22","691","Long County","ALL","All Column Values","Teachers and Paraprofessionals",12569152.42,5922048.88,18491201.3,39.23,34.39,47.88,43.23
+"2021-22","692","Lowndes County","ALL","All Column Values","General Administration",872420.17,1022184.3,1894604.47,1.48,1.24,1.66,1.22
+"2021-22","692","Lowndes County","ALL","All Column Values","School Administration",3143985.8,1477919.42,4621905.22,3.62,3.03,4.06,2.96
+"2021-22","692","Lowndes County","ALL","All Column Values","Teachers and Paraprofessionals",41568139.04,19163533.91,60731672.95,47.59,39.81,53.31,38.95
+"2021-22","693","Lumpkin County","ALL","All Column Values","General Administration",497658.39,235392.85,733051.24,1.6,1.31,1.57,1.05
+"2021-22","693","Lumpkin County","ALL","All Column Values","School Administration",1505386.54,757076.32,2262462.86,4.92,4.05,4.86,3.24
+"2021-22","693","Lumpkin County","ALL","All Column Values","Teachers and Paraprofessionals",16504150.24,7610173.41,24114323.65,52.47,43.18,51.75,34.5
+"2021-22","694","Macon County","ALL","All Column Values","General Administration",457541.6,215664.26,673205.86,3.36,3,3.33,3.05
+"2021-22","694","Macon County","ALL","All Column Values","School Administration",508002.76,287125.6,795128.36,3.97,3.55,3.93,3.6
+"2021-22","694","Macon County","ALL","All Column Values","Teachers and Paraprofessionals",3721726.1,1998224.61,5719950.71,28.55,25.53,28.29,25.89
+"2021-22","695","Madison County","ALL","All Column Values","General Administration",489455.73,304179.79,793635.52,1.18,1.06,1.3,1.15
+"2021-22","695","Madison County","ALL","All Column Values","School Administration",1823210.46,1104802.2,2928012.66,4.37,3.9,4.79,4.24
+"2021-22","695","Madison County","ALL","All Column Values","Teachers and Paraprofessionals",22752220.99,11210239.95,33962460.94,50.65,45.29,55.59,49.22
+"2021-22","696","Marion County","ALL","All Column Values","General Administration",173403.15,129999.04,303402.19,1.69,1.46,1.81,1.61
+"2021-22","696","Marion County","ALL","All Column Values","School Administration",585519.43,286539.24,872058.67,4.85,4.2,5.2,4.64
+"2021-22","696","Marion County","ALL","All Column Values","Teachers and Paraprofessionals",4679486.83,2161184.45,6840671.28,38.03,32.92,40.76,36.4
+"2021-22","697","McDuffie County","ALL","All Column Values","General Administration",251706.42,152009.1,403715.52,0.9,0.55,0.98,0.84
+"2021-22","697","McDuffie County","ALL","All Column Values","School Administration",1257417.73,649984.9,1907402.63,4.24,2.58,4.62,3.96
+"2021-22","697","McDuffie County","ALL","All Column Values","Teachers and Paraprofessionals",14579899.5,6213482.74,20793382.24,46.18,28.09,50.33,43.2
+"2021-22","698","McIntosh County","ALL","All Column Values","General Administration",241345.72,119378.22,360723.94,1.7,1.49,1.98,1.57
+"2021-22","698","McIntosh County","ALL","All Column Values","School Administration",515691.37,278792.9,794484.27,3.74,3.29,4.36,3.46
+"2021-22","698","McIntosh County","ALL","All Column Values","Teachers and Paraprofessionals",5018287.31,2416220.93,7434508.24,34.98,30.78,40.81,32.41
+"2021-22","699","Meriwether County","ALL","All Column Values","General Administration",372448.8,283243.89,655692.69,1.69,1.47,1.77,1.58
+"2021-22","699","Meriwether County","ALL","All Column Values","School Administration",1122953.63,513673.62,1636627.25,4.23,3.67,4.41,3.94
+"2021-22","699","Meriwether County","ALL","All Column Values","Teachers and Paraprofessionals",9060792.51,3801228.69,12862021.2,33.25,28.82,34.63,30.93
+"2021-22","700","Miller County","ALL","All Column Values","General Administration",345477.04,173774.57,519251.61,4.05,3.58,4.47,3.87
+"2021-22","700","Miller County","ALL","All Column Values","School Administration",457510.91,176446.21,633957.12,4.95,4.37,5.46,4.72
+"2021-22","700","Miller County","ALL","All Column Values","Teachers and Paraprofessionals",3208226.98,1552645.77,4760872.75,37.16,32.83,41.02,35.48
+"2021-22","701","Mitchell County","ALL","All Column Values","General Administration",354097.6,171423.67,525521.27,1.88,1.69,2.37,2.16
+"2021-22","701","Mitchell County","ALL","All Column Values","School Administration",914040,418313.09,1332353.09,4.76,4.28,6,5.49
+"2021-22","701","Mitchell County","ALL","All Column Values","Teachers and Paraprofessionals",5960484.42,2747210.6,8707695.02,31.14,27.97,39.24,35.86
+"2021-22","702","Monroe County","ALL","All Column Values","General Administration",661790.97,424266.23,1086057.2,1.92,1.61,2.06,1.77
+"2021-22","702","Monroe County","ALL","All Column Values","School Administration",1109664.52,766849.83,1876514.35,3.31,2.78,3.55,3.05
+"2021-22","702","Monroe County","ALL","All Column Values","Teachers and Paraprofessionals",19066688.12,9162553.18,28229241.3,49.79,41.8,53.44,45.9
+"2021-22","703","Montgomery County","ALL","All Column Values","General Administration",108760.69,39322.9,148083.59,1.16,1.01,1.27,1.11
+"2021-22","703","Montgomery County","ALL","All Column Values","School Administration",398674.97,167047.83,565722.8,4.42,3.84,4.84,4.24
+"2021-22","703","Montgomery County","ALL","All Column Values","Teachers and Paraprofessionals",3451182.06,1697443.75,5148625.81,40.26,34.97,44.05,38.58
+"2021-22","704","Morgan County","ALL","All Column Values","General Administration",559281.36,457305.89,1016587.25,2.27,1.9,2.39,2.09
+"2021-22","704","Morgan County","ALL","All Column Values","School Administration",1132900.36,608983.31,1741883.67,3.88,3.26,4.09,3.59
+"2021-22","704","Morgan County","ALL","All Column Values","Teachers and Paraprofessionals",14106852.3,7233478.17,21340330.47,47.55,39.95,50.08,43.94
+"2021-22","705","Murray County","ALL","All Column Values","General Administration",464572.06,210028.11,674600.17,0.88,0.59,0.89,0.77
+"2021-22","705","Murray County","ALL","All Column Values","School Administration",2194676.22,1099009.06,3293685.28,4.29,2.9,4.34,3.76
+"2021-22","705","Murray County","ALL","All Column Values","Teachers and Paraprofessionals",25720060.96,12247575.51,37967636.47,49.4,33.45,50.06,43.36
+"2021-22","706","Muscogee County","ALL","All Column Values","General Administration",1321857.57,1149385.77,2471243.34,0.66,0.48,0.7,0.57
+"2021-22","706","Muscogee County","ALL","All Column Values","School Administration",11167515.27,6224279.56,17391794.83,4.64,3.35,4.94,4.03
+"2021-22","706","Muscogee County","ALL","All Column Values","Teachers and Paraprofessionals",111457630.59,60727875.6,172185506.19,45.94,33.2,48.86,39.91
+"2021-22","707","Newton County","ALL","All Column Values","General Administration",1321375.53,714580.35,2035955.88,0.87,0.75,0.91,0.74
+"2021-22","707","Newton County","ALL","All Column Values","School Administration",7012241.88,4092542.45,11104784.33,4.77,4.11,4.96,4.06
+"2021-22","707","Newton County","ALL","All Column Values","Teachers and Paraprofessionals",74802326.07,34269583.39,109071909.46,46.84,40.34,48.73,39.88
+"2021-22","708","Oconee County","ALL","All Column Values","General Administration",626799.04,275780.79,902579.83,0.9,0.76,0.93,0.78
+"2021-22","708","Oconee County","ALL","All Column Values","School Administration",2924407.01,1669289.38,4593696.39,4.6,3.86,4.74,3.99
+"2021-22","708","Oconee County","ALL","All Column Values","Teachers and Paraprofessionals",35891069.25,17584290.93,53475360.18,53.5,44.9,55.22,46.48
+"2021-22","709","Oglethorpe County","ALL","All Column Values","General Administration",311733.02,119909.14,431642.16,1.46,1.28,1.64,1.46
+"2021-22","709","Oglethorpe County","ALL","All Column Values","School Administration",824868.85,369162.83,1194031.68,4.03,3.54,4.53,4.03
+"2021-22","709","Oglethorpe County","ALL","All Column Values","Teachers and Paraprofessionals",9509613.29,4453643.52,13963256.81,47.1,41.41,52.92,47.09
+"2021-22","710","Paulding County","ALL","All Column Values","General Administration",1160511.76,815705.71,1976217.47,0.54,0.47,0.58,0.52
+"2021-22","710","Paulding County","ALL","All Column Values","School Administration",10703105.4,5820382.24,16523487.64,4.52,3.94,4.82,4.33
+"2021-22","710","Paulding County","ALL","All Column Values","Teachers and Paraprofessionals",128560872.62,63419187.65,191980060.27,52.52,45.79,56.03,50.29
+"2021-22","711","Peach County","ALL","All Column Values","General Administration",586046.69,348215.41,934262.1,2.07,1.64,1.99,1.42
+"2021-22","711","Peach County","ALL","All Column Values","School Administration",1430361.27,658305.74,2088667.01,4.63,3.67,4.45,3.18
+"2021-22","711","Peach County","ALL","All Column Values","Teachers and Paraprofessionals",14363908.1,6345700.63,20709608.73,45.87,36.41,44.09,31.57
+"2021-22","712","Pickens County","ALL","All Column Values","General Administration",271148.02,194645.74,465793.76,0.8,0.66,0.89,0.72
+"2021-22","712","Pickens County","ALL","All Column Values","School Administration",1467182.81,805211.94,2272394.75,3.9,3.24,4.32,3.5
+"2021-22","712","Pickens County","ALL","All Column Values","Teachers and Paraprofessionals",17616407.67,9170914.88,26787322.55,45.93,38.24,50.93,41.23
+"2021-22","713","Pierce County","ALL","All Column Values","General Administration",378811.1,243754.19,622565.29,1.53,1.33,1.6,1.28
+"2021-22","713","Pierce County","ALL","All Column Values","School Administration",1204621.86,715021.3,1919643.16,4.71,4.09,4.94,3.94
+"2021-22","713","Pierce County","ALL","All Column Values","Teachers and Paraprofessionals",14952294.56,6934670.86,21886965.42,53.75,46.62,56.33,44.89
+"2021-22","714","Pike County","ALL","All Column Values","General Administration",474644.49,268949.72,743594.21,1.94,1.38,2.13,1.67
+"2021-22","714","Pike County","ALL","All Column Values","School Administration",1104459.03,495093.81,1599552.84,4.18,2.97,4.59,3.6
+"2021-22","714","Pike County","ALL","All Column Values","Teachers and Paraprofessionals",13812692.53,5392331.78,19205024.31,50.21,35.7,55.13,43.19
+"2021-22","715","Polk County","ALL","All Column Values","General Administration",566474.26,289304.09,855778.35,0.89,0.62,0.9,0.76
+"2021-22","715","Polk County","ALL","All Column Values","School Administration",2472468.34,1315172.01,3787640.35,3.96,2.73,4,3.37
+"2021-22","715","Polk County","ALL","All Column Values","Teachers and Paraprofessionals",34459337.53,14699896.57,49159234.1,51.36,35.41,51.95,43.72
+"2021-22","716","Pulaski County","ALL","All Column Values","General Administration",507151.83,209997.54,717149.37,4.2,1.65,4.75,1.51
+"2021-22","716","Pulaski County","ALL","All Column Values","School Administration",619634.06,275938.05,895572.11,5.25,2.06,5.93,1.88
+"2021-22","716","Pulaski County","ALL","All Column Values","Teachers and Paraprofessionals",5146743,2141687.49,7288430.49,42.7,16.77,48.3,15.32
+"2021-22","717","Putnam County","ALL","All Column Values","General Administration",596051.26,190366.7,786417.96,1.77,1.05,1.87,1.36
+"2021-22","717","Putnam County","ALL","All Column Values","School Administration",1175178.61,559290.05,1734468.66,3.9,2.32,4.13,3
+"2021-22","717","Putnam County","ALL","All Column Values","Teachers and Paraprofessionals",13948837.96,5732031.7,19680869.66,44.28,26.29,46.88,34.07
+"2021-22","718","Quitman County","ALL","All Column Values","General Administration",244463.68,139864.19,384327.87,6.63,5.88,7.49,6.47
+"2021-22","718","Quitman County","ALL","All Column Values","School Administration",189182.66,84465.79,273648.45,4.72,4.19,5.33,4.61
+"2021-22","718","Quitman County","ALL","All Column Values","Teachers and Paraprofessionals",1263153.59,533788.37,1796941.96,30.98,27.48,35.01,30.27
+"2021-22","719","Rabun County","ALL","All Column Values","General Administration",523377.08,252861.81,776238.89,2.11,1.66,2.3,1.68
+"2021-22","719","Rabun County","ALL","All Column Values","School Administration",971276.62,624340.91,1595617.53,4.34,3.42,4.72,3.45
+"2021-22","719","Rabun County","ALL","All Column Values","Teachers and Paraprofessionals",11370286.17,5843973.37,17214259.54,46.84,36.87,50.96,37.24
+"2021-22","720","Randolph County","ALL","All Column Values","General Administration",312825.38,115561.38,428386.76,3.33,2.94,3.48,3.07
+"2021-22","720","Randolph County","ALL","All Column Values","School Administration",619516.99,261983.25,881500.24,6.86,6.05,7.17,6.32
+"2021-22","720","Randolph County","ALL","All Column Values","Teachers and Paraprofessionals",2523586.91,1237627.83,3761214.74,29.25,25.83,30.57,26.98
+"2021-22","721","Richmond County","ALL","All Column Values","General Administration",3237529,1726745.1,4964274.1,1.24,0.88,1.29,1.05
+"2021-22","721","Richmond County","ALL","All Column Values","School Administration",13957952.31,8088366.67,22046318.98,5.5,3.89,5.74,4.67
+"2021-22","721","Richmond County","ALL","All Column Values","Teachers and Paraprofessionals",97822310.14,52537215.21,150359525.35,37.54,26.52,39.13,31.86
+"2021-22","722","Rockdale County","ALL","All Column Values","General Administration",1377480.65,1056000.63,2433481.28,1.05,0.89,1.1,0.97
+"2021-22","722","Rockdale County","ALL","All Column Values","School Administration",6523720.71,3663380.01,10187100.72,4.38,3.73,4.59,4.06
+"2021-22","722","Rockdale County","ALL","All Column Values","Teachers and Paraprofessionals",78634315.81,32688311.68,111322627.49,47.89,40.71,50.12,44.39
+"2021-22","723","Schley County","ALL","All Column Values","General Administration",232155.26,140432.7,372587.96,2.57,1.7,2.76,2.36
+"2021-22","723","Schley County","ALL","All Column Values","School Administration",442341.12,228109.84,670450.96,4.62,3.06,4.97,4.24
+"2021-22","723","Schley County","ALL","All Column Values","Teachers and Paraprofessionals",5182689.98,2174340.05,7357030.03,50.66,33.6,54.57,46.54
+"2021-22","724","Screven County","ALL","All Column Values","General Administration",374451.13,158954.22,533405.35,1.85,1.65,2.02,1.8
+"2021-22","724","Screven County","ALL","All Column Values","School Administration",851692.27,401580.94,1253273.21,4.34,3.87,4.74,4.22
+"2021-22","724","Screven County","ALL","All Column Values","Teachers and Paraprofessionals",8696214.39,4110711.04,12806925.43,44.36,39.52,48.44,43.17
+"2021-22","725","Seminole County","ALL","All Column Values","General Administration",212713.95,106544.58,319258.53,1.61,1.41,1.7,1.5
+"2021-22","725","Seminole County","ALL","All Column Values","School Administration",489759.36,289784.24,779543.6,3.92,3.43,4.14,3.66
+"2021-22","725","Seminole County","ALL","All Column Values","Teachers and Paraprofessionals",5221576,2674936.21,7896512.21,39.72,34.79,41.94,37.06
+"2021-22","726","Griffin-Spalding County","ALL","All Column Values","General Administration",1333342.97,547037.84,1880380.81,1.45,1.25,1.56,1.36
+"2021-22","726","Griffin-Spalding County","ALL","All Column Values","School Administration",5147960.5,2710033.92,7857994.42,6.04,5.21,6.54,5.69
+"2021-22","726","Griffin-Spalding County","ALL","All Column Values","Teachers and Paraprofessionals",37203239.36,18784866.87,55988106.23,43.04,37.1,46.57,40.52
+"2021-22","727","Stephens County","ALL","All Column Values","General Administration",542990.3,402724.33,945714.63,2.02,1.68,2.08,1.64
+"2021-22","727","Stephens County","ALL","All Column Values","School Administration",1283269.8,693065.17,1976334.97,4.21,3.52,4.34,3.42
+"2021-22","727","Stephens County","ALL","All Column Values","Teachers and Paraprofessionals",16195831.06,7978693.2,24174524.26,51.55,43.03,53.09,41.88
+"2021-22","728","Stewart County","ALL","All Column Values","General Administration",192375.33,108233.49,300608.82,3.39,3.02,3.64,3.29
+"2021-22","728","Stewart County","ALL","All Column Values","School Administration",245362.83,108670.34,354033.17,3.99,3.56,4.28,3.87
+"2021-22","728","Stewart County","ALL","All Column Values","Teachers and Paraprofessionals",2399619.26,924427.46,3324046.72,37.48,33.43,40.23,36.34
+"2021-22","729","Sumter County","ALL","All Column Values","General Administration",429648.57,259188.96,688837.53,1.34,1.11,1.37,1.13
+"2021-22","729","Sumter County","ALL","All Column Values","School Administration",1184273.81,792735.82,1977009.63,3.84,3.19,3.94,3.24
+"2021-22","729","Sumter County","ALL","All Column Values","Teachers and Paraprofessionals",13733997.44,6816896.31,20550893.75,39.9,33.16,40.98,33.64
+"2021-22","730","Talbot County","ALL","All Column Values","General Administration",191164.91,103708.89,294873.8,3.93,3.31,3.63,3.28
+"2021-22","730","Talbot County","ALL","All Column Values","School Administration",290651.58,119550.64,410202.22,5.47,4.6,5.05,4.56
+"2021-22","730","Talbot County","ALL","All Column Values","Teachers and Paraprofessionals",2232099.23,829152.74,3061251.97,40.83,34.34,37.68,34
+"2021-22","731","Taliaferro County","ALL","All Column Values","General Administration",350698.74,65985.12,416683.86,8.16,7.62,8.32,7.76
+"2021-22","731","Taliaferro County","ALL","All Column Values","School Administration",162137.14,84395.52,246532.66,4.83,4.51,4.92,4.59
+"2021-22","731","Taliaferro County","ALL","All Column Values","Teachers and Paraprofessionals",1182445.61,640721.25,1823166.86,35.7,33.35,36.4,33.97
+"2021-22","732","Tattnall County","ALL","All Column Values","General Administration",621950.05,291826.8,913776.85,1.66,1.34,1.85,1.29
+"2021-22","732","Tattnall County","ALL","All Column Values","School Administration",1264049.72,647254.38,1911304.1,3.47,2.8,3.87,2.69
+"2021-22","732","Tattnall County","ALL","All Column Values","Teachers and Paraprofessionals",15208772.54,7101312.71,22310085.25,40.53,32.64,45.21,31.38
+"2021-22","733","Taylor County","ALL","All Column Values","General Administration",249559.8,187850.76,437410.56,1.87,1.39,2.41,1.43
+"2021-22","733","Taylor County","ALL","All Column Values","School Administration",344539.71,177188.12,521727.83,2.23,1.66,2.88,1.7
+"2021-22","733","Taylor County","ALL","All Column Values","Teachers and Paraprofessionals",6259847.57,2542520.47,8802368.04,37.64,28.01,48.57,28.74
+"2021-22","734","Telfair County","ALL","All Column Values","General Administration",140859.36,108470.91,249330.27,1.2,1.05,1.16,1.02
+"2021-22","734","Telfair County","ALL","All Column Values","School Administration",823474.64,424514.31,1247988.95,5.99,5.24,5.82,5.12
+"2021-22","734","Telfair County","ALL","All Column Values","Teachers and Paraprofessionals",7452318.96,3740315.47,11192634.43,53.73,47,52.23,45.89
+"2021-22","735","Terrell County","ALL","All Column Values","General Administration",203151.3,117553.93,320705.23,1.38,1.25,1.8,1.6
+"2021-22","735","Terrell County","ALL","All Column Values","School Administration",650291.64,326436.13,976727.77,4.19,3.82,5.47,4.86
+"2021-22","735","Terrell County","ALL","All Column Values","Teachers and Paraprofessionals",4642735.63,2045355.2,6688090.83,28.68,26.17,37.47,33.27
+"2021-22","736","Thomas County","ALL","All Column Values","General Administration",169120.4,248063.97,417184.37,0.54,0.46,0.58,0.48
+"2021-22","736","Thomas County","ALL","All Column Values","School Administration",1771005.8,1049385.44,2820391.24,3.66,3.14,3.91,3.26
+"2021-22","736","Thomas County","ALL","All Column Values","Teachers and Paraprofessionals",23981230.83,12527090.37,36508321.2,47.35,40.61,50.6,42.25
+"2021-22","737","Tift County","ALL","All Column Values","General Administration",322369.68,266474.84,588844.52,0.62,0.32,0.68,0.55
+"2021-22","737","Tift County","ALL","All Column Values","School Administration",2974326.4,1911697.75,4886024.15,5.16,2.67,5.6,4.54
+"2021-22","737","Tift County","ALL","All Column Values","Teachers and Paraprofessionals",29699618.68,15691740.23,45391358.91,47.96,24.78,52.04,42.13
+"2021-22","738","Toombs County","ALL","All Column Values","General Administration",191108.88,169187.47,360296.35,0.89,0.76,1.03,0.87
+"2021-22","738","Toombs County","ALL","All Column Values","School Administration",951119.36,490935.07,1442054.43,3.55,3.04,4.14,3.49
+"2021-22","738","Toombs County","ALL","All Column Values","Teachers and Paraprofessionals",11179773.27,5931751.41,17111524.68,42.16,36.06,49.14,41.35
+"2021-22","739","Towns County","ALL","All Column Values","General Administration",162081.75,160458.19,322539.94,1.79,1.71,1.97,1.78
+"2021-22","739","Towns County","ALL","All Column Values","School Administration",445864.8,237487.75,683352.55,3.79,3.61,4.18,3.76
+"2021-22","739","Towns County","ALL","All Column Values","Teachers and Paraprofessionals",5248757.32,2878165.19,8126922.51,45.11,42.97,49.66,44.77
+"2021-22","740","Treutlen County","ALL","All Column Values","General Administration",391748.08,149132.47,540880.55,3.37,2.97,4.22,3.74
+"2021-22","740","Treutlen County","ALL","All Column Values","School Administration",412799.9,179017.19,591817.09,3.68,3.25,4.61,4.09
+"2021-22","740","Treutlen County","ALL","All Column Values","Teachers and Paraprofessionals",4690718.98,1995973.3,6686692.28,41.62,36.76,52.14,46.24
+"2021-22","741","Troup County","ALL","All Column Values","General Administration",1322394.12,732814.52,2055208.64,1.32,1.12,1.39,1.29
+"2021-22","741","Troup County","ALL","All Column Values","School Administration",4835695.64,2758153.87,7593849.51,4.88,4.13,5.12,4.75
+"2021-22","741","Troup County","ALL","All Column Values","Teachers and Paraprofessionals",49967247.61,22862743.7,72829991.31,46.8,39.6,49.13,45.6
+"2021-22","742","Turner County","ALL","All Column Values","General Administration",244757.88,161106.31,405864.19,2.24,1.98,2.37,2.17
+"2021-22","742","Turner County","ALL","All Column Values","School Administration",647119.9,266488.06,913607.96,5.03,4.46,5.34,4.88
+"2021-22","742","Turner County","ALL","All Column Values","Teachers and Paraprofessionals",5112662.62,2220218.01,7332880.63,40.38,35.78,42.85,39.16
+"2021-22","743","Twiggs County","ALL","All Column Values","General Administration",496481.66,237639.05,734120.71,6.01,5.32,5.86,5.21
+"2021-22","743","Twiggs County","ALL","All Column Values","School Administration",450204.67,232800.82,683005.49,5.59,4.95,5.45,4.85
+"2021-22","743","Twiggs County","ALL","All Column Values","Teachers and Paraprofessionals",2582673.44,1216713.77,3799387.21,31.11,27.56,30.31,26.95
+"2021-22","744","Union County","ALL","All Column Values","General Administration",604080.18,355634.58,959714.76,2.24,1.74,2.5,2.02
+"2021-22","744","Union County","ALL","All Column Values","School Administration",1093473.66,578483.83,1671957.49,3.9,3.04,4.36,3.52
+"2021-22","744","Union County","ALL","All Column Values","Teachers and Paraprofessionals",14766703.69,6227698.33,20994402.02,48.93,38.16,54.73,44.17
+"2021-22","745","Thomaston-Upson County","ALL","All Column Values","General Administration",540477.51,375622.77,916100.28,1.74,1.48,1.74,1.55
+"2021-22","745","Thomaston-Upson County","ALL","All Column Values","School Administration",1496862.39,887212.65,2384075.04,4.53,3.84,4.54,4.03
+"2021-22","745","Thomaston-Upson County","ALL","All Column Values","Teachers and Paraprofessionals",16542157.81,8995769.82,25537927.63,48.48,41.17,48.58,43.13
+"2021-22","746","Walker County","ALL","All Column Values","General Administration",253772.24,249264.55,503036.79,0.42,0.33,0.46,0.41
+"2021-22","746","Walker County","ALL","All Column Values","School Administration",3260130.24,2114716.95,5374847.19,4.51,3.52,4.95,4.42
+"2021-22","746","Walker County","ALL","All Column Values","Teachers and Paraprofessionals",37631654.94,19629652.01,57261306.95,48.03,37.52,52.69,47.13
+"2021-22","747","Walton County","ALL","All Column Values","General Administration",905370.44,844883.99,1750254.43,1.04,0.85,1.12,0.97
+"2021-22","747","Walton County","ALL","All Column Values","School Administration",4694202.63,2711712.08,7405914.71,4.4,3.6,4.74,4.09
+"2021-22","747","Walton County","ALL","All Column Values","Teachers and Paraprofessionals",55142028.34,26545528.66,81687557,48.52,39.75,52.31,45.14
+"2021-22","748","Ware County","ALL","All Column Values","General Administration",276177.57,238955.33,515132.9,0.61,0.52,0.65,0.58
+"2021-22","748","Ware County","ALL","All Column Values","School Administration",2283216.77,1273748.76,3556965.53,4.18,3.59,4.49,3.98
+"2021-22","748","Ware County","ALL","All Column Values","Teachers and Paraprofessionals",25941447.56,13257618.78,39199066.34,46.04,39.56,49.46,43.83
+"2021-22","749","Warren County","ALL","All Column Values","General Administration",502349.45,156678.41,659027.86,6.12,5.48,6.14,5.61
+"2021-22","749","Warren County","ALL","All Column Values","School Administration",282056.06,144682.09,426738.15,3.96,3.55,3.98,3.63
+"2021-22","749","Warren County","ALL","All Column Values","Teachers and Paraprofessionals",3138054.03,1504488.89,4642542.92,43.11,38.62,43.26,39.51
+"2021-22","750","Washington County","ALL","All Column Values","General Administration",708686.64,386466.53,1095153.17,2.76,2.33,2.96,2.01
+"2021-22","750","Washington County","ALL","All Column Values","School Administration",1263757.65,800865.71,2064623.36,5.2,4.4,5.58,3.78
+"2021-22","750","Washington County","ALL","All Column Values","Teachers and Paraprofessionals",11128807.39,6020560.9,17149368.29,43.17,36.56,46.33,31.43
+"2021-22","751","Wayne County","ALL","All Column Values","General Administration",267613.91,255165.69,522779.6,0.84,0.7,0.86,0.65
+"2021-22","751","Wayne County","ALL","All Column Values","School Administration",1429390.64,792635.8,2222026.44,3.57,2.98,3.67,2.74
+"2021-22","751","Wayne County","ALL","All Column Values","Teachers and Paraprofessionals",19723091.99,9462004.54,29185096.53,46.94,39.1,48.21,36.05
+"2021-22","752","Webster County","ALL","All Column Values","General Administration",218492.71,74233.81,292726.52,5.48,4.98,6.32,5.49
+"2021-22","752","Webster County","ALL","All Column Values","School Administration",79428.91,66509.66,145938.57,2.73,2.48,3.15,2.74
+"2021-22","752","Webster County","ALL","All Column Values","Teachers and Paraprofessionals",1711416.63,602665.67,2314082.3,43.34,39.35,49.95,43.43
+"2021-22","753","Wheeler County","ALL","All Column Values","General Administration",439561.74,195249.55,634811.29,4.87,1.99,5.55,1.95
+"2021-22","753","Wheeler County","ALL","All Column Values","School Administration",407774.8,219361.18,627135.98,4.81,1.96,5.49,1.93
+"2021-22","753","Wheeler County","ALL","All Column Values","Teachers and Paraprofessionals",3826949.44,1566272.31,5393221.75,41.37,16.87,47.17,16.58
+"2021-22","754","White County","ALL","All Column Values","General Administration",389874.64,215490.52,605365.16,1.25,0.72,1.33,1.04
+"2021-22","754","White County","ALL","All Column Values","School Administration",1610696.01,909593.17,2520289.18,5.21,3,5.52,4.31
+"2021-22","754","White County","ALL","All Column Values","Teachers and Paraprofessionals",15957761.6,8679578.15,24637339.75,50.89,29.29,53.98,42.18
+"2021-22","755","Whitfield County","ALL","All Column Values","General Administration",601959.26,310013.02,911972.28,0.57,0.48,0.6,0.5
+"2021-22","755","Whitfield County","ALL","All Column Values","School Administration",4985567.43,3015780.39,8001347.82,5.03,4.22,5.29,4.42
+"2021-22","755","Whitfield County","ALL","All Column Values","Teachers and Paraprofessionals",54532583.63,26640804.94,81173388.57,51.07,42.86,53.66,44.82
+"2021-22","756","Wilcox County","ALL","All Column Values","General Administration",298938.15,152188.49,451126.64,2.77,2.49,3.12,2.71
+"2021-22","756","Wilcox County","ALL","All Column Values","School Administration",458531.25,212437.78,670969.03,4.12,3.7,4.64,4.03
+"2021-22","756","Wilcox County","ALL","All Column Values","Teachers and Paraprofessionals",4968810.09,1885852.74,6854662.83,42.1,37.78,47.38,41.13
+"2021-22","757","Wilkes County","ALL","All Column Values","General Administration",280388.91,91024.96,371413.87,1.74,1.52,1.97,1.7
+"2021-22","757","Wilkes County","ALL","All Column Values","School Administration",727537.02,336401.94,1063938.96,4.97,4.35,5.65,4.86
+"2021-22","757","Wilkes County","ALL","All Column Values","Teachers and Paraprofessionals",5612373.53,2792899.97,8405273.5,39.29,34.4,44.61,38.37
+"2021-22","758","Wilkinson County","ALL","All Column Values","General Administration",169206.6,131464.18,300670.78,1.63,1.34,1.65,1.34
+"2021-22","758","Wilkinson County","ALL","All Column Values","School Administration",575479.44,375633.05,951112.49,5.15,4.25,5.22,4.24
+"2021-22","758","Wilkinson County","ALL","All Column Values","Teachers and Paraprofessionals",4621799.09,2399516.98,7021316.07,38.05,31.35,38.54,31.3
+"2021-22","759","Worth County","ALL","All Column Values","General Administration",295190.53,143330.43,438520.96,1.05,0.94,1.34,1.22
+"2021-22","759","Worth County","ALL","All Column Values","School Administration",957934.76,472937.13,1430871.89,3.43,3.07,4.37,3.97
+"2021-22","759","Worth County","ALL","All Column Values","Teachers and Paraprofessionals",10130223.89,4568904.94,14699128.83,35.28,31.55,44.94,40.79
+"2021-22","761","Atlanta Public Schools","ALL","All Column Values","General Administration",13910475.79,5121229.41,19031705.2,1.44,1.27,1.54,1.44
+"2021-22","761","Atlanta Public Schools","ALL","All Column Values","School Administration",34933483.09,14387962.29,49321445.38,3.72,3.3,3.98,3.74
+"2021-22","761","Atlanta Public Schools","ALL","All Column Values","Teachers and Paraprofessionals",268487343.62,161896460.04,430383803.66,32.47,28.83,34.73,32.66
+"2021-22","763","Bremen City","ALL","All Column Values","General Administration",320184.4,367536.93,687721.33,2.53,2.14,2.91,1.92
+"2021-22","763","Bremen City","ALL","All Column Values","School Administration",816396.43,481073.19,1297469.62,4.77,4.04,5.49,3.61
+"2021-22","763","Bremen City","ALL","All Column Values","Teachers and Paraprofessionals",9793249.74,4648667.65,14441917.39,53.04,44.98,61.12,40.22
+"2021-22","764","Buford City","ALL","All Column Values","General Administration",1544058.61,835223.26,2379281.87,3.47,1.96,3.45,1.93
+"2021-22","764","Buford City","ALL","All Column Values","School Administration",2125703.34,1194591.85,3320295.19,4.85,2.73,4.81,2.69
+"2021-22","764","Buford City","ALL","All Column Values","Teachers and Paraprofessionals",28248875.75,11888518.74,40137394.49,58.62,33.06,58.17,32.5
+"2021-22","765","Calhoun City","ALL","All Column Values","General Administration",624799.15,280611.91,905411.06,1.93,1.51,2.25,1.68
+"2021-22","765","Calhoun City","ALL","All Column Values","School Administration",1146044.06,654018.28,1800062.34,3.84,3,4.48,3.33
+"2021-22","765","Calhoun City","ALL","All Column Values","Teachers and Paraprofessionals",13702736.74,6878451.09,20581187.83,43.95,34.34,51.17,38.11
+"2021-22","766","Carrollton City","ALL","All Column Values","General Administration",932964.94,420572.74,1353537.68,2.23,1.81,2.13,1.89
+"2021-22","766","Carrollton City","ALL","All Column Values","School Administration",1919331.02,1168535.88,3087866.9,5.09,4.13,4.85,4.32
+"2021-22","766","Carrollton City","ALL","All Column Values","Teachers and Paraprofessionals",19536935.6,9807911.71,29344847.31,48.38,39.28,46.08,41.02
+"2021-22","767","Cartersville City","ALL","All Column Values","General Administration",386885.64,344848.09,731733.73,1.41,0.98,1.38,0.82
+"2021-22","767","Cartersville City","ALL","All Column Values","School Administration",1168261.22,737180.05,1905441.27,3.67,2.56,3.59,2.13
+"2021-22","767","Cartersville City","ALL","All Column Values","Teachers and Paraprofessionals",17915881.34,8436196.95,26352078.29,50.71,35.45,49.64,29.51
+"2021-22","769","Chickamauga City","ALL","All Column Values","General Administration",377915.56,207852.25,585767.81,4.39,3.86,4.59,4.08
+"2021-22","769","Chickamauga City","ALL","All Column Values","School Administration",465304.39,242554.55,707858.94,5.3,4.66,5.55,4.94
+"2021-22","769","Chickamauga City","ALL","All Column Values","Teachers and Paraprofessionals",4423152.73,2185270.81,6608423.54,49.53,43.51,51.79,46.08
+"2021-22","771","Commerce City","ALL","All Column Values","General Administration",187943.4,199311.63,387255.03,1.61,1.33,1.85,1.43
+"2021-22","771","Commerce City","ALL","All Column Values","School Administration",650719.18,378106.25,1028825.43,4.28,3.54,4.92,3.81
+"2021-22","771","Commerce City","ALL","All Column Values","Teachers and Paraprofessionals",7363354.24,3648227.06,11011581.3,45.78,37.87,52.65,40.76
+"2021-22","772","Dalton Public Schools","ALL","All Column Values","General Administration",666107,303581.92,969688.92,0.93,0.78,0.96,0.82
+"2021-22","772","Dalton Public Schools","ALL","All Column Values","School Administration",3115097.93,1305402.63,4420500.56,4.26,3.55,4.39,3.72
+"2021-22","772","Dalton Public Schools","ALL","All Column Values","Teachers and Paraprofessionals",34771763.71,18123715.8,52895479.51,51,42.44,52.54,44.56
+"2021-22","773","City Schools of Decatur","ALL","All Column Values","General Administration",658052.4,304125.66,962178.06,1.11,1,1.13,0.97
+"2021-22","773","City Schools of Decatur","ALL","All Column Values","School Administration",3271935.6,1724067.88,4996003.48,5.78,5.18,5.84,5.05
+"2021-22","773","City Schools of Decatur","ALL","All Column Values","Teachers and Paraprofessionals",29291595.03,15483925.57,44775520.6,51.79,46.38,52.35,45.25
+"2021-22","774","Dublin City","ALL","All Column Values","General Administration",523470.21,241613.31,765083.52,2.09,1.74,2.22,1.8
+"2021-22","774","Dublin City","ALL","All Column Values","School Administration",1337284.07,660716.44,1998000.51,5.45,4.55,5.81,4.7
+"2021-22","774","Dublin City","ALL","All Column Values","Teachers and Paraprofessionals",10457101.73,4694513.15,15151614.88,41.31,34.51,44.06,35.61
+"2021-22","776","Gainesville City","ALL","All Column Values","General Administration",984762.3,735111.48,1719873.78,1.76,1.38,1.87,1.04
+"2021-22","776","Gainesville City","ALL","All Column Values","School Administration",3210783.72,1817340.2,5028123.92,5.14,4.04,5.45,3.05
+"2021-22","776","Gainesville City","ALL","All Column Values","Teachers and Paraprofessionals",28571557.71,14897557.98,43469115.69,44.4,34.94,47.14,26.4
+"2021-22","779","Jefferson City","ALL","All Column Values","General Administration",417269.94,173048.5,590318.44,1.49,1.15,1.58,1.32
+"2021-22","779","Jefferson City","ALL","All Column Values","School Administration",1228676.12,560472.58,1789148.7,4.51,3.47,4.79,4.01
+"2021-22","779","Jefferson City","ALL","All Column Values","Teachers and Paraprofessionals",15862177.74,6368244.08,22230421.82,56.02,43.15,59.54,49.77
+"2021-22","781","Marietta City","ALL","All Column Values","General Administration",1317674.63,764957.18,2082631.81,1.52,1.11,1.59,1.41
+"2021-22","781","Marietta City","ALL","All Column Values","School Administration",4438296.8,2457818.84,6896115.64,5.03,3.67,5.25,4.67
+"2021-22","781","Marietta City","ALL","All Column Values","Teachers and Paraprofessionals",45301795.3,21172523.09,66474318.39,48.49,35.33,50.62,45
+"2021-22","7820108","State Charter Schools- Mountain Education Center School","ALL","All Column Values","General Administration",281241.79,290234.05,571475.84,1.69,1.69,2.02,2.02
+"2021-22","7820108","State Charter Schools- Mountain Education Center School","ALL","All Column Values","School Administration",1533329.35,939337.58,2472666.93,7.32,7.32,8.76,8.76
+"2021-22","7820108","State Charter Schools- Mountain Education Center School","ALL","All Column Values","Teachers and Paraprofessionals",7087654.27,900530.49,7988184.76,23.63,23.63,28.29,28.29
+"2021-22","7820110","State Charter Schools- Odyssey School","ALL","All Column Values","General Administration",0,0,0,0,0,0,0
+"2021-22","7820110","State Charter Schools- Odyssey School","ALL","All Column Values","School Administration",155491.59,0,155491.59,2.37,2.21,3.24,3.2
+"2021-22","7820110","State Charter Schools- Odyssey School","ALL","All Column Values","Teachers and Paraprofessionals",1472501.2,521110.66,1993611.86,30.37,28.36,41.53,41.08
+"2021-22","7820120","State Charter Schools- Georgia Cyber Academy","ALL","All Column Values","General Administration",126128.23,48232,174360.23,0.14,0.14,0.16,0.16
+"2021-22","7820120","State Charter Schools- Georgia Cyber Academy","ALL","All Column Values","School Administration",741153.68,67210.66,808364.34,0.66,0.66,0.72,0.72
+"2021-22","7820120","State Charter Schools- Georgia Cyber Academy","ALL","All Column Values","Teachers and Paraprofessionals",47224304.23,19390344.49,66614648.72,54.29,54.29,59.74,59.74
+"2021-22","7820121","State Charter Schools- Utopian Academy for the Arts Charter School","ALL","All Column Values","General Administration",0,114234.6,114234.6,1.9,1.76,2.3,2.15
+"2021-22","7820121","State Charter Schools- Utopian Academy for the Arts Charter School","ALL","All Column Values","School Administration",865728.35,12145.52,877873.87,14.6,13.49,17.71,16.53
+"2021-22","7820121","State Charter Schools- Utopian Academy for the Arts Charter School","ALL","All Column Values","Teachers and Paraprofessionals",1754852.33,132059.32,1886911.65,31.38,29,38.06,35.53
+"2021-22","7820212","State Charter Schools- Cherokee Charter Academy","ALL","All Column Values","General Administration",0,0,0,0,0,0,0
+"2021-22","7820212","State Charter Schools- Cherokee Charter Academy","ALL","All Column Values","School Administration",322236.65,-191629.6,130607.05,1.48,1.42,1.73,1.67
+"2021-22","7820212","State Charter Schools- Cherokee Charter Academy","ALL","All Column Values","Teachers and Paraprofessionals",2782950.88,1060516.91,3843467.79,43.45,41.79,50.94,49.16
+"2021-22","7820412","State Charter Schools- Georgia Connections Academy","ALL","All Column Values","General Administration",0,0,0,0,0,0,0
+"2021-22","7820412","State Charter Schools- Georgia Connections Academy","ALL","All Column Values","School Administration",1813210.93,754683.15,2567894.08,5.69,5.69,6.6,6.6
+"2021-22","7820412","State Charter Schools- Georgia Connections Academy","ALL","All Column Values","Teachers and Paraprofessionals",10735717.05,4451760.03,15187477.08,33.63,33.63,39.06,39.06
+"2021-22","7820612","State Charter Schools- Ivy Prep Academy at Kirkwood for Girls School","ALL","All Column Values","General Administration",0,32440.86,32440.86,0.43,0.42,0.46,0.44
+"2021-22","7820612","State Charter Schools- Ivy Prep Academy at Kirkwood for Girls School","ALL","All Column Values","School Administration",372300.87,133086.28,505387.15,6.71,6.48,7.11,6.84
+"2021-22","7820612","State Charter Schools- Ivy Prep Academy at Kirkwood for Girls School","ALL","All Column Values","Teachers and Paraprofessionals",1691602.25,581506.8,2273109.05,30.17,29.12,31.96,30.79
+"2021-22","7820613","State Charter Schools- Foothills Charter High School (Madison Campus)","ALL","All Column Values","General Administration",495260.08,232905.32,728165.4,2.39,2.39,3.1,3.1
+"2021-22","7820613","State Charter Schools- Foothills Charter High School (Madison Campus)","ALL","All Column Values","School Administration",2228071.42,523756.78,2751828.2,9.02,9.02,11.73,11.73
+"2021-22","7820613","State Charter Schools- Foothills Charter High School (Madison Campus)","ALL","All Column Values","Teachers and Paraprofessionals",5663542.06,770896.47,6434438.53,21.09,21.09,27.43,27.43
+"2021-22","7820614","State Charter Schools- International Charter School of Atlanta","ALL","All Column Values","General Administration",192996.08,95873.6,288869.68,2.98,2.98,3.67,3.67
+"2021-22","7820614","State Charter Schools- International Charter School of Atlanta","ALL","All Column Values","School Administration",246956.16,166751.86,413708.02,4.27,4.27,5.25,5.25
+"2021-22","7820614","State Charter Schools- International Charter School of Atlanta","ALL","All Column Values","Teachers and Paraprofessionals",2815509.82,1187400,4002909.82,41.29,41.29,50.8,50.8
+"2021-22","7820615","State Charter Schools- Scintilla Charter Academy","ALL","All Column Values","General Administration",88550.04,39561.66,128111.7,1.65,1.56,1.97,1.48
+"2021-22","7820615","State Charter Schools- Scintilla Charter Academy","ALL","All Column Values","School Administration",253854.1,90955.99,344810.09,4.45,4.2,5.31,3.99
+"2021-22","7820615","State Charter Schools- Scintilla Charter Academy","ALL","All Column Values","Teachers and Paraprofessionals",2072389.33,991896.11,3064285.44,39.55,37.31,47.22,35.43
+"2021-22","7820616","State Charter Schools- Georgia School for Innovation and the Classics","ALL","All Column Values","General Administration",0,18334.39,18334.39,0.18,0.18,0.21,0.16
+"2021-22","7820616","State Charter Schools- Georgia School for Innovation and the Classics","ALL","All Column Values","School Administration",302996.36,141894.21,444890.57,4.39,4.39,5.01,3.81
+"2021-22","7820616","State Charter Schools- Georgia School for Innovation and the Classics","ALL","All Column Values","Teachers and Paraprofessionals",2717471.7,1062286.7,3779758.4,37.27,37.27,42.58,32.38
+"2021-22","7820617","State Charter Schools- Dubois Integrity Academy I","ALL","All Column Values","General Administration",0,3022,3022,0.02,0.02,0.02,0.02
+"2021-22","7820617","State Charter Schools- Dubois Integrity Academy I","ALL","All Column Values","School Administration",332294,104450,436744,2.52,2.35,2.88,2.67
+"2021-22","7820617","State Charter Schools- Dubois Integrity Academy I","ALL","All Column Values","Teachers and Paraprofessionals",3928904.5,1527601,5456505.5,31.43,29.32,36.02,33.4
+"2021-22","7820618","State Charter Schools- Coastal Plains Charter High School - Candler Campus","ALL","All Column Values","General Administration",1294112.43,199999.98,1494112.41,8.45,8.45,10.03,10.03
+"2021-22","7820618","State Charter Schools- Coastal Plains Charter High School - Candler Campus","ALL","All Column Values","School Administration",1410673.04,308688.49,1719361.53,9.72,9.72,11.54,11.54
+"2021-22","7820618","State Charter Schools- Coastal Plains Charter High School - Candler Campus","ALL","All Column Values","Teachers and Paraprofessionals",2931095.52,269862.35,3200957.87,18.1,18.1,21.48,21.48
+"2021-22","7830103","State Charter Schools II- Statesboro STEAM Academy","ALL","All Column Values","General Administration",0,0,0,0,0,0,0
+"2021-22","7830103","State Charter Schools II- Statesboro STEAM Academy","ALL","All Column Values","School Administration",184803,95728,280531,12.59,12.59,12.09,12.09
+"2021-22","7830103","State Charter Schools II- Statesboro STEAM Academy","ALL","All Column Values","Teachers and Paraprofessionals",991173,356538,1347711,60.47,60.47,58.06,58.06
+"2021-22","7830210","State Charter Schools II- Pataula Charter Academy","ALL","All Column Values","General Administration",0,0,0,0,0,0,0
+"2021-22","7830210","State Charter Schools II- Pataula Charter Academy","ALL","All Column Values","School Administration",494366.67,198503.3,692869.97,7.6,7.24,8.31,8
+"2021-22","7830210","State Charter Schools II- Pataula Charter Academy","ALL","All Column Values","Teachers and Paraprofessionals",2276746.05,956661.88,3233407.93,35.46,33.78,38.78,37.32
+"2021-22","7830310","State Charter Schools II- Fulton Leadership Academy","ALL","All Column Values","General Administration",0,18420,18420,0.38,0.37,0.4,0.38
+"2021-22","7830310","State Charter Schools II- Fulton Leadership Academy","ALL","All Column Values","School Administration",172216,67642,239858,4.99,4.79,5.15,4.92
+"2021-22","7830310","State Charter Schools II- Fulton Leadership Academy","ALL","All Column Values","Teachers and Paraprofessionals",673791,261072,934863,19.43,18.69,20.06,19.18
+"2021-22","7830410","State Charter Schools II- Atlanta Heights Charter School","ALL","All Column Values","General Administration",0,0,0,0,0,0,0
+"2021-22","7830410","State Charter Schools II- Atlanta Heights Charter School","ALL","All Column Values","School Administration",451886.88,228346.95,680233.83,6.81,6.45,7.25,6.87
+"2021-22","7830410","State Charter Schools II- Atlanta Heights Charter School","ALL","All Column Values","Teachers and Paraprofessionals",2128850.29,856999.84,2985850.13,29.89,28.32,31.84,30.18
+"2021-22","7830610","State Charter Schools II- Coweta Charter Academy","ALL","All Column Values","General Administration",0,0,0,0,0,0,0
+"2021-22","7830610","State Charter Schools II- Coweta Charter Academy","ALL","All Column Values","School Administration",304826.81,74396.72,379223.53,4.33,4.11,4.72,4.49
+"2021-22","7830610","State Charter Schools II- Coweta Charter Academy","ALL","All Column Values","Teachers and Paraprofessionals",2530760.71,796310.3,3327071.01,38.02,36.03,41.37,39.39
+"2021-22","7830611","State Charter Schools II- Cirrus Charter Academy","ALL","All Column Values","General Administration",8000,50783.26,58783.26,0.66,0.62,0.8,0.75
+"2021-22","7830611","State Charter Schools II- Cirrus Charter Academy","ALL","All Column Values","School Administration",577537.42,29859.37,607396.79,6.84,6.44,8.31,7.78
+"2021-22","7830611","State Charter Schools II- Cirrus Charter Academy","ALL","All Column Values","Teachers and Paraprofessionals",1818209.28,717475.85,2535685.13,28.54,26.88,34.68,32.48
+"2021-22","7830612","State Charter Schools II- Southwest Georgia S.T.E.M. Charter Academy","ALL","All Column Values","General Administration",185241.33,67527.96,252769.29,3.73,3.52,4.85,4.65
+"2021-22","7830612","State Charter Schools II- Southwest Georgia S.T.E.M. Charter Academy","ALL","All Column Values","School Administration",84166.64,56731.78,140898.42,2.08,1.96,2.7,2.59
+"2021-22","7830612","State Charter Schools II- Southwest Georgia S.T.E.M. Charter Academy","ALL","All Column Values","Teachers and Paraprofessionals",1582506.94,735404.3,2317911.24,34.2,32.28,44.44,42.67
+"2021-22","7830613","State Charter Schools II- Brookhaven Innovation Academy","ALL","All Column Values","General Administration",0,0,0,0,0,0,0
+"2021-22","7830613","State Charter Schools II- Brookhaven Innovation Academy","ALL","All Column Values","School Administration",309321.78,114324.46,423646.24,6.44,6.44,8.37,7.21
+"2021-22","7830613","State Charter Schools II- Brookhaven Innovation Academy","ALL","All Column Values","Teachers and Paraprofessionals",1887675.27,548635.26,2436310.53,37.02,37.01,48.15,41.44
+"2021-22","7830614","State Charter Schools II- Liberty Tech Charter Academy","ALL","All Column Values","General Administration",33615.77,7936.13,41551.9,0.85,0.85,0.89,0.89
+"2021-22","7830614","State Charter Schools II- Liberty Tech Charter Academy","ALL","All Column Values","School Administration",320647.03,94884.11,415531.14,8.48,8.48,8.91,8.91
+"2021-22","7830614","State Charter Schools II- Liberty Tech Charter Academy","ALL","All Column Values","Teachers and Paraprofessionals",1858224.59,718162.47,2576387.06,52.61,52.61,55.27,55.27
+"2021-22","7830615","State Charter Schools II- Genesis Innovation Academy for Boys","ALL","All Column Values","General Administration",44912,32355,77267,1.39,1.34,1.63,1.58
+"2021-22","7830615","State Charter Schools II- Genesis Innovation Academy for Boys","ALL","All Column Values","School Administration",393937,126293,520230,9.36,9.03,11.01,10.62
+"2021-22","7830615","State Charter Schools II- Genesis Innovation Academy for Boys","ALL","All Column Values","Teachers and Paraprofessionals",1641111,561222,2202333,39.61,38.21,46.6,44.97
+"2021-22","7830616","State Charter Schools II- Genesis Innovation Academy for Girls","ALL","All Column Values","General Administration",46082,35465,81547,1.53,1.47,1.72,1.67
+"2021-22","7830616","State Charter Schools II- Genesis Innovation Academy for Girls","ALL","All Column Values","School Administration",392433,125983,518416,9.75,9.37,10.95,10.59
+"2021-22","7830616","State Charter Schools II- Genesis Innovation Academy for Girls","ALL","All Column Values","Teachers and Paraprofessionals",1726639,580091,2306730,43.39,41.69,48.72,47.12
+"2021-22","7830617","State Charter Schools II- Resurgence Hall Charter School","ALL","All Column Values","General Administration",0,0,0,0,0,0,0
+"2021-22","7830617","State Charter Schools II- Resurgence Hall Charter School","ALL","All Column Values","School Administration",989661.54,324730.64,1314392.18,20.31,19.73,20.69,20.1
+"2021-22","7830617","State Charter Schools II- Resurgence Hall Charter School","ALL","All Column Values","Teachers and Paraprofessionals",2653511.4,463616.82,3117128.22,48.16,46.8,49.07,47.66
+"2021-22","7830618","State Charter Schools II- SAIL Charter Academy - School for Arts-Infused Learning","ALL","All Column Values","General Administration",0,0,0,0,0,0,0
+"2021-22","7830618","State Charter Schools II- SAIL Charter Academy - School for Arts-Infused Learning","ALL","All Column Values","School Administration",556813.96,222545.65,779359.61,10.74,10.47,10.71,10.43
+"2021-22","7830618","State Charter Schools II- SAIL Charter Academy - School for Arts-Infused Learning","ALL","All Column Values","Teachers and Paraprofessionals",2340881.98,866986.84,3207868.82,44.21,43.1,44.07,42.92
+"2021-22","7830619","State Charter Schools II- International Academy of Smyrna","ALL","All Column Values","General Administration",1269,0,1269,0.02,0.02,0.02,0.02
+"2021-22","7830619","State Charter Schools II- International Academy of Smyrna","ALL","All Column Values","School Administration",326113.02,70561.78,396674.8,7.17,6.81,7.12,6.9
+"2021-22","7830619","State Charter Schools II- International Academy of Smyrna","ALL","All Column Values","Teachers and Paraprofessionals",1391089.7,588840.96,1979930.66,35.78,33.97,35.54,34.44
+"2021-22","7830620","State Charter Schools II- International Charter Academy of Georgia","ALL","All Column Values","General Administration",105907.44,39688.11,145595.55,5.77,5.77,6.43,6.43
+"2021-22","7830620","State Charter Schools II- International Charter Academy of Georgia","ALL","All Column Values","School Administration",93016.8,57080.83,150097.63,5.95,5.95,6.63,6.63
+"2021-22","7830620","State Charter Schools II- International Charter Academy of Georgia","ALL","All Column Values","Teachers and Paraprofessionals",367989.22,331536.56,699525.78,27.72,27.72,30.89,30.89
+"2021-22","7830621","State Charter Schools II- SLAM Academy of Atlanta","ALL","All Column Values","General Administration",0,0,0,0,0,0,0
+"2021-22","7830621","State Charter Schools II- SLAM Academy of Atlanta","ALL","All Column Values","School Administration",248104,79061,327165,14.39,14.02,13.11,12.82
+"2021-22","7830621","State Charter Schools II- SLAM Academy of Atlanta","ALL","All Column Values","Teachers and Paraprofessionals",444284,150945,595229,26.17,25.51,23.86,23.32
+"2021-22","7830623","State Charter Schools II- Academy For Classical Education","ALL","All Column Values","General Administration",338727.36,168006.33,506733.69,2.27,2.27,3,2.41
+"2021-22","7830623","State Charter Schools II- Academy For Classical Education","ALL","All Column Values","School Administration",486922.08,163370.31,650292.39,2.92,2.92,3.85,3.09
+"2021-22","7830623","State Charter Schools II- Academy For Classical Education","ALL","All Column Values","Teachers and Paraprofessionals",5813217.05,3013271.15,8826488.2,39.62,39.62,52.29,41.96
+"2021-22","7830624","State Charter Schools II- Spring Creek Charter Academy","ALL","All Column Values","General Administration",0,0,0,0,0,0,0
+"2021-22","7830624","State Charter Schools II- Spring Creek Charter Academy","ALL","All Column Values","School Administration",161635.58,67069.27,228704.85,3.55,3.41,4.32,4.14
+"2021-22","7830624","State Charter Schools II- Spring Creek Charter Academy","ALL","All Column Values","Teachers and Paraprofessionals",1355867.88,579771.83,1935639.71,30.07,28.9,36.53,35.07
+"2021-22","7830625","State Charter Schools II- Yi Hwang Academy of Language Excellence","ALL","All Column Values","General Administration",0,0,0,0,0,0,0
+"2021-22","7830625","State Charter Schools II- Yi Hwang Academy of Language Excellence","ALL","All Column Values","School Administration",155101.76,19314.33,174416.09,5.72,5.72,5.73,5.73
+"2021-22","7830625","State Charter Schools II- Yi Hwang Academy of Language Excellence","ALL","All Column Values","Teachers and Paraprofessionals",1175339.87,268297.17,1443637.04,47.37,47.37,47.41,47.41
+"2021-22","7830626","State Charter Schools II- Furlow Charter School","ALL","All Column Values","General Administration",0,16751.67,16751.67,0.23,0.22,0.29,0.27
+"2021-22","7830626","State Charter Schools II- Furlow Charter School","ALL","All Column Values","School Administration",203391.14,101623.99,305015.13,4.23,3.92,5.36,4.89
+"2021-22","7830626","State Charter Schools II- Furlow Charter School","ALL","All Column Values","Teachers and Paraprofessionals",2109341.87,958598.7,3067940.57,42.51,39.44,53.87,49.23
+"2021-22","7830627","State Charter Schools II- Atlanta SMART Academy","ALL","All Column Values","General Administration",0,0,0,0,0,0,0
+"2021-22","7830627","State Charter Schools II- Atlanta SMART Academy","ALL","All Column Values","School Administration",238301.14,63408.84,301709.98,12.05,11.86,13.41,13.18
+"2021-22","7830627","State Charter Schools II- Atlanta SMART Academy","ALL","All Column Values","Teachers and Paraprofessionals",472801.54,118036.61,590838.15,23.6,23.23,26.26,25.8
+"2021-22","7830628","State Charter Schools II- Ethos Classical Charter School","ALL","All Column Values","General Administration",0,0,0,0,0,0,0
+"2021-22","7830628","State Charter Schools II- Ethos Classical Charter School","ALL","All Column Values","School Administration",535500.77,266304.62,801805.39,13.91,13.18,15.42,14.53
+"2021-22","7830628","State Charter Schools II- Ethos Classical Charter School","ALL","All Column Values","Teachers and Paraprofessionals",2150110.9,370112.19,2520223.09,43.71,41.41,48.48,45.67
+"2021-22","7830630","State Charter Schools II- Baconton Community Charter School","ALL","All Column Values","General Administration",0,31942,31942,0.24,0.24,0.26,0.26
+"2021-22","7830630","State Charter Schools II- Baconton Community Charter School","ALL","All Column Values","School Administration",256872,211903,468775,3.51,3.51,3.84,3.84
+"2021-22","7830630","State Charter Schools II- Baconton Community Charter School","ALL","All Column Values","Teachers and Paraprofessionals",4207223,1902967,6110190,45.76,45.76,50.03,50.03
+"2021-22","7830632","State Charter Schools II- Atlanta Unbound Academy","ALL","All Column Values","General Administration",222736.53,0,222736.53,8.73,8.54,7.95,7.79
+"2021-22","7830632","State Charter Schools II- Atlanta Unbound Academy","ALL","All Column Values","School Administration",111586.61,214103.67,325690.28,12.77,12.48,11.62,11.39
+"2021-22","7830632","State Charter Schools II- Atlanta Unbound Academy","ALL","All Column Values","Teachers and Paraprofessionals",1146628.69,390744.72,1537373.41,60.26,58.93,54.85,53.74
+"2021-22","7830633","State Charter Schools II- D.E.L.T.A. STEAM Academy","ALL","All Column Values","General Administration",0,0,0,0,0,0,0
+"2021-22","7830633","State Charter Schools II- D.E.L.T.A. STEAM Academy","ALL","All Column Values","School Administration",281535.36,81862.78,363398.14,10.43,10.43,14.2,14.2
+"2021-22","7830633","State Charter Schools II- D.E.L.T.A. STEAM Academy","ALL","All Column Values","Teachers and Paraprofessionals",849723.93,229346.84,1079070.77,30.96,30.96,42.17,42.17
+"2021-22","7830634","State Charter Schools II- Georgia Fugees Academy Charter School","ALL","All Column Values","General Administration",0,3129,3129,0.1,0.1,0.1,0.1
+"2021-22","7830634","State Charter Schools II- Georgia Fugees Academy Charter School","ALL","All Column Values","School Administration",97972,57403,155375,4.86,4.86,4.9,4.9
+"2021-22","7830634","State Charter Schools II- Georgia Fugees Academy Charter School","ALL","All Column Values","Teachers and Paraprofessionals",846947,352947,1199894,37.51,37.51,37.86,37.86
+"2021-22","7830636","State Charter Schools II- Northwest Classical Academy","ALL","All Column Values","General Administration",66347.16,39111.92,105459.08,1.79,1.77,2.12,2.11
+"2021-22","7830636","State Charter Schools II- Northwest Classical Academy","ALL","All Column Values","School Administration",249607.22,83504.82,333112.04,5.65,5.58,6.69,6.66
+"2021-22","7830636","State Charter Schools II- Northwest Classical Academy","ALL","All Column Values","Teachers and Paraprofessionals",1575282.6,659397.95,2234680.55,37.88,37.45,44.87,44.65
+"2021-22","784","Pelham City","ALL","All Column Values","General Administration",262977.09,85516.97,348494.06,2.01,1.38,2.12,1.6
+"2021-22","784","Pelham City","ALL","All Column Values","School Administration",585849.89,297535.24,883385.13,5.11,3.49,5.38,4.05
+"2021-22","784","Pelham City","ALL","All Column Values","Teachers and Paraprofessionals",6505492.02,2625610.88,9131102.9,52.78,36.08,55.57,41.9
+"2021-22","785","Rome City","ALL","All Column Values","General Administration",650547.99,336873.44,987421.43,1.2,1.02,1.23,1.07
+"2021-22","785","Rome City","ALL","All Column Values","School Administration",2293707.37,1371807.23,3665514.6,4.46,3.78,4.57,3.96
+"2021-22","785","Rome City","ALL","All Column Values","Teachers and Paraprofessionals",28353673.81,14669571.61,43023245.42,52.33,44.42,53.62,46.54
+"2021-22","786","Social Circle City","ALL","All Column Values","General Administration",536638.48,222907.86,759546.34,3.46,2.97,3.53,3.16
+"2021-22","786","Social Circle City","ALL","All Column Values","School Administration",820468.61,357920.95,1178389.56,5.37,4.6,5.48,4.9
+"2021-22","786","Social Circle City","ALL","All Column Values","Teachers and Paraprofessionals",7738706.13,3292662.4,11031368.53,50.24,43.08,51.29,45.85
+"2021-22","789","Thomasville City","ALL","All Column Values","General Administration",285107.74,364776.13,649883.87,1.75,0.79,1.84,1.6
+"2021-22","789","Thomasville City","ALL","All Column Values","School Administration",1166081.12,621731.79,1787812.91,4.81,2.17,5.07,4.41
+"2021-22","789","Thomasville City","ALL","All Column Values","Teachers and Paraprofessionals",10577777.52,5290119.38,15867896.9,42.68,19.25,44.96,39.1
+"2021-22","791","Trion City","ALL","All Column Values","General Administration",316433.81,132821.55,449255.36,2.99,2.6,3.18,2.72
+"2021-22","791","Trion City","ALL","All Column Values","School Administration",539063.96,316127.18,855191.14,5.7,4.95,6.04,5.17
+"2021-22","791","Trion City","ALL","All Column Values","Teachers and Paraprofessionals",4990359.43,2426564.44,7416923.87,49.44,42.9,52.42,44.83
+"2021-22","792","Valdosta City","ALL","All Column Values","General Administration",833912.25,459860.7,1293772.95,1.21,1.03,1.32,1.16
+"2021-22","792","Valdosta City","ALL","All Column Values","School Administration",1909423.65,1299948.51,3209372.16,3,2.55,3.29,2.87
+"2021-22","792","Valdosta City","ALL","All Column Values","Teachers and Paraprofessionals",32845647.79,16167831.32,49013479.11,45.89,38.89,50.17,43.87
+"2021-22","793","Vidalia City","ALL","All Column Values","General Administration",359694.5,151780.67,511475.17,1.85,1.54,1.78,1.54
+"2021-22","793","Vidalia City","ALL","All Column Values","School Administration",847457.68,347915.88,1195373.56,4.32,3.59,4.16,3.6
+"2021-22","793","Vidalia City","ALL","All Column Values","Teachers and Paraprofessionals",8809930.93,4111018.1,12920949.03,46.65,38.84,45,38.91
+"2021-22","850","Northwest Georgia RESA","ALL","All Column Values","General Administration",154170.84,82917.23,237088.07,2.6,2.6,2.77,2.77
+"2021-22","850","Northwest Georgia RESA","ALL","All Column Values","School Administration",0,49494.75,49494.75,0.54,0.54,0.58,0.58
+"2021-22","850","Northwest Georgia RESA","ALL","All Column Values","Teachers and Paraprofessionals",2451270.53,1224567.7,3675838.23,40.29,40.29,43.02,43.02
+"2021-22","852","North Georgia RESA","ALL","All Column Values","General Administration",222393.67,100820.73,323214.4,6.98,6.98,7.55,7.55
+"2021-22","852","North Georgia RESA","ALL","All Column Values","School Administration",120557.48,101070.53,221628.01,4.79,4.79,5.18,5.18
+"2021-22","852","North Georgia RESA","ALL","All Column Values","Teachers and Paraprofessionals",998644.89,535683.83,1534328.72,33.15,33.15,35.86,35.86
+"2021-22","854","Pioneer RESA","ALL","All Column Values","General Administration",317685.76,133025.76,450711.52,3.62,3.52,3.52,3.41
+"2021-22","854","Pioneer RESA","ALL","All Column Values","School Administration",0,0,0,0,0,0,0
+"2021-22","854","Pioneer RESA","ALL","All Column Values","Teachers and Paraprofessionals",3833268.73,2072095.97,5905364.7,47.39,46.13,46.09,44.73
+"2021-22","856","Metro RESA","ALL","All Column Values","General Administration",268152.3,134266.77,402419.07,3.12,3.12,3.15,3.15
+"2021-22","856","Metro RESA","ALL","All Column Values","School Administration",201661.14,185735.91,387397.05,3,3,3.04,3.04
+"2021-22","856","Metro RESA","ALL","All Column Values","Teachers and Paraprofessionals",1543900.89,678249.59,2222150.48,17.21,17.21,17.42,17.42
+"2021-22","858","Northeast Georgia RESA","ALL","All Column Values","General Administration",248200.93,68272.07,316473,2.87,2.87,2.87,2.87
+"2021-22","858","Northeast Georgia RESA","ALL","All Column Values","School Administration",141571.54,69994.07,211565.61,1.92,1.92,1.92,1.92
+"2021-22","858","Northeast Georgia RESA","ALL","All Column Values","Teachers and Paraprofessionals",2018292.69,1028675.69,3046968.38,27.62,27.62,27.6,27.6
+"2021-22","860","West Georgia RESA","ALL","All Column Values","General Administration",454402.3,170497.18,624899.48,6.97,6.97,7.91,7.91
+"2021-22","860","West Georgia RESA","ALL","All Column Values","School Administration",0,67725.31,67725.31,0.76,0.76,0.86,0.86
+"2021-22","860","West Georgia RESA","ALL","All Column Values","Teachers and Paraprofessionals",1803839.75,971695.56,2775535.31,30.98,30.98,35.13,35.13
+"2021-22","862","Griffin RESA","ALL","All Column Values","General Administration",357037.84,143103.79,500141.63,10.44,10.44,10.97,10.88
+"2021-22","862","Griffin RESA","ALL","All Column Values","School Administration",0,0,0,0,0,0,0
+"2021-22","862","Griffin RESA","ALL","All Column Values","Teachers and Paraprofessionals",76919.52,16786.9,93706.42,1.96,1.96,2.05,2.04
+"2021-22","864","Middle Georgia RESA","ALL","All Column Values","General Administration",205592.97,76483.43,282076.4,6.24,6.24,7.09,7.09
+"2021-22","864","Middle Georgia RESA","ALL","All Column Values","School Administration",0,0,0,0,0,0,0
+"2021-22","864","Middle Georgia RESA","ALL","All Column Values","Teachers and Paraprofessionals",103379.04,34101.31,137480.35,3.04,3.04,3.45,3.45
+"2021-22","866","Oconee RESA","ALL","All Column Values","General Administration",93625,40294.38,133919.38,3.76,3.76,3.58,3.58
+"2021-22","866","Oconee RESA","ALL","All Column Values","School Administration",0,12883.95,12883.95,0.36,0.36,0.34,0.34
+"2021-22","866","Oconee RESA","ALL","All Column Values","Teachers and Paraprofessionals",634806.31,330477.59,965283.9,27.08,27.08,25.8,25.8
+"2021-22","868","Central Savannah River RESA","ALL","All Column Values","General Administration",203049.14,39351.35,242400.49,5.18,5.18,5.24,5.24
+"2021-22","868","Central Savannah River RESA","ALL","All Column Values","School Administration",0,21630.06,21630.06,0.46,0.46,0.47,0.47
+"2021-22","868","Central Savannah River RESA","ALL","All Column Values","Teachers and Paraprofessionals",238194.24,88453.72,326647.96,6.97,6.97,7.06,7.06
+"2021-22","872","Chattahoochee-Flint RESA","ALL","All Column Values","General Administration",102435.45,28558,130993.45,3.09,3.09,3.04,3.04
+"2021-22","872","Chattahoochee-Flint RESA","ALL","All Column Values","School Administration",0,0,0,0,0,0,0
+"2021-22","872","Chattahoochee-Flint RESA","ALL","All Column Values","Teachers and Paraprofessionals",232899.65,73948.47,306848.12,7.24,7.24,7.12,7.12
+"2021-22","876","Heart of Georgia RESA","ALL","All Column Values","General Administration",195684.66,98789.31,294473.97,5.63,5.63,5.61,5.61
+"2021-22","876","Heart of Georgia RESA","ALL","All Column Values","School Administration",50705.29,37590.6,88295.89,1.69,1.69,1.68,1.68
+"2021-22","876","Heart of Georgia RESA","ALL","All Column Values","Teachers and Paraprofessionals",688893.93,310115.62,999009.55,19.11,19.11,19.02,19.02
+"2021-22","880","First District RESA","ALL","All Column Values","General Administration",199299.41,85930.64,285230.05,3.54,3.54,3.7,3.7
+"2021-22","880","First District RESA","ALL","All Column Values","School Administration",0,42722.18,42722.18,0.53,0.53,0.55,0.55
+"2021-22","880","First District RESA","ALL","All Column Values","Teachers and Paraprofessionals",1261654.32,745628.71,2007283.03,24.9,24.9,26.07,26.07
+"2021-22","884","Southwest Georgia RESA","ALL","All Column Values","General Administration",88348.38,18911.89,107260.27,4.45,4.45,3.92,3.92
+"2021-22","884","Southwest Georgia RESA","ALL","All Column Values","School Administration",0,0,0,0,0,0,0
+"2021-22","884","Southwest Georgia RESA","ALL","All Column Values","Teachers and Paraprofessionals",0,0,0,0,0,0,0
+"2021-22","886","Coastal Plains RESA","ALL","All Column Values","General Administration",210756.12,116803.99,327560.11,5.25,5.25,5.41,5.41
+"2021-22","886","Coastal Plains RESA","ALL","All Column Values","School Administration",307657.8,137047.05,444704.85,7.13,7.13,7.35,7.35
+"2021-22","886","Coastal Plains RESA","ALL","All Column Values","Teachers and Paraprofessionals",1058670.67,526342.24,1585012.91,25.41,25.41,26.19,26.19
+"2021-22","888","Okefenokee RESA","ALL","All Column Values","General Administration",140000.04,79757.55,219757.59,5.33,5.33,5.58,5.58
+"2021-22","888","Okefenokee RESA","ALL","All Column Values","School Administration",0,9917.75,9917.75,0.24,0.24,0.25,0.25
+"2021-22","888","Okefenokee RESA","ALL","All Column Values","Teachers and Paraprofessionals",636468.17,336698.79,973166.96,23.62,23.62,24.73,24.73
+"2021-22","ALL","All Column Values","ALL","All Column Values","General Administration",149306652.44,103898844.84,253205497.28,1.1,0.87,1.17,0.97
+"2021-22","ALL","All Column Values","ALL","All Column Values","School Administration",659701507.76,362592542.91,1022294050.67,4.44,3.53,4.71,3.93
+"2021-22","ALL","All Column Values","ALL","All Column Values","Teachers and Paraprofessionals",7373361520.67,3520835669.74,10894197190.41,47.34,37.62,50.21,41.88
